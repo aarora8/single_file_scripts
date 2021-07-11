@@ -14,7 +14,7 @@ def main():
     # text_file_handle = open(input_transcript, 'r', encoding='utf8')
     # text_file_data = text_file_handle.read().strip().split("\n")
     list_of_files = glob.glob('/Users/ashisharora/Desktop/root/corpora/TDCorpus/topics/*.txt')
-    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/all_topics'
+    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text'
     output_transcript_handle = open(output_transcript, 'w', encoding='utf8')
     for file_name in list_of_files:
         text_file_handle = open(file_name, 'r', encoding='utf8')

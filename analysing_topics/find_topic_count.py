@@ -10,7 +10,7 @@ def main():
     # args = parser.parse_args()
     # output_transcript_handle = open(args.output_transcript, 'w', encoding='utf8')
     # text_file_handle = open(args.input_transcript, 'r', encoding='utf8')
-    input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic2/all_topic_info2'
+    input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic2/topic_text'
     text_file_handle = open(input_transcript, 'r', encoding='utf8')
     text_file_data = text_file_handle.read().strip().split("\n")
     topic2duration = dict()
