@@ -27,8 +27,6 @@ def main():
             topic_type = topic_type.strip().split()[0]
             print(topic_type)
             topic = parts[2]
-            
-            
             start_seconds_txt = parts[0].strip().split('.')[0]
             end_seconds_txt = parts[1].strip().split('.')[0]
             if ':' in parts[0]:

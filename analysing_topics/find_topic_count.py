@@ -10,20 +10,31 @@ def main():
     # args = parser.parse_args()
     # output_transcript_handle = open(args.output_transcript, 'w', encoding='utf8')
     # text_file_handle = open(args.input_transcript, 'r', encoding='utf8')
-    input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic2/analysis/topic_text'
+    input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_text'
     text_file_handle = open(input_transcript, 'r', encoding='utf8')
     text_file_data = text_file_handle.read().strip().split("\n")
-    topic2duration = dict()
+    primary_topic2duration = dict()
+    secondary_topic2duration = dict()
     for line in text_file_data:
         parts = line.strip().split()
         if len(parts) == 4:
-            topic = parts[2].split('-')[0]
-            if topic not in topic2duration:
-                topic2duration[topic] = 0
-            topic2duration[topic] += 1
+            topic = parts[2]
+            # topic = parts[2].split('-')[0]
+            topic_type = parts[3]
+            topic_type = topic_type.strip().split()[0]
+
+            if topic not in primary_topic2duration:
+                primary_topic2duration[topic] = 0
+            if topic not in secondary_topic2duration:
+                secondary_topic2duration[topic] = 0
+
+            if topic_type == 'p':
+                primary_topic2duration[topic] += 1
+            else:
+                secondary_topic2duration[topic]+= 1
     
-    for key in sorted(topic2duration):
-        output_str = str(key) + " " + str(topic2duration[key])
+    for key in sorted(secondary_topic2duration):
+        output_str = str(key) + " " + str(secondary_topic2duration[key])
         print(output_str)
 
 if __name__ == '__main__':
