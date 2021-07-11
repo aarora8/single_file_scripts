@@ -12,8 +12,8 @@ def main():
     # args = parser.parse_args()
     # output_transcript_handle = open(args.output_transcript, 'w', encoding='utf8')
     # text_file_handle = open(args.input_transcript, 'r', encoding='utf8')
-    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_duration'
-    input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/all_topics'
+    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_duration'
+    input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_text'
     output_transcript_handle = open(output_transcript, 'w', encoding='utf8')
     text_file_handle = open(input_transcript, 'r', encoding='utf8')
     text_file_data = text_file_handle.read().strip().split("\n")
