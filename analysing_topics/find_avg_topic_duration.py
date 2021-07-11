@@ -12,7 +12,7 @@ def main():
     # args = parser.parse_args()
     # output_transcript_handle = open(args.output_transcript, 'w', encoding='utf8')
     # text_file_handle = open(args.input_transcript, 'r', encoding='utf8')
-    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_duration'
+    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_duration_secondary'
     input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_text'
     output_transcript_handle = open(output_transcript, 'w', encoding='utf8')
     text_file_handle = open(input_transcript, 'r', encoding='utf8')
@@ -24,8 +24,10 @@ def main():
         if len(parts) == 4:
             # topic = parts[2].split('-')[0]
             topic_type = parts[3]
+            topic_type = topic_type.strip().split()[0]
+            print(topic_type)
             topic = parts[2]
-            topic_type = topic_type.strip().split()
+            
             
             start_seconds_txt = parts[0].strip().split('.')[0]
             end_seconds_txt = parts[1].strip().split('.')[0]
@@ -47,12 +49,11 @@ def main():
             if topic_type == 'p':
                 primary_topic2duration[topic] += diff
             else:
-                secondary_topic2duration[topic]
+                secondary_topic2duration[topic]+= diff
     
-    for key in sorted(primary_topic2duration):
-        output_str = str(key) + " " + str(primary_topic2duration[key]).split(" ")[1]
+    for key in sorted(secondary_topic2duration):
+        output_str = str(key) + " " + str(secondary_topic2duration[key]).split(" ")[1]
         output_transcript_handle.write(output_str + '\n')
-        # print(output_str)
 
 
 if __name__ == '__main__':
