@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 def main():
     rttm_filename = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text.txt'
     uttname = '20200925_1525_0087_0088_01_01_toen.txt'
+    uttname = '20200928_1150_0072_0071_04_01_toen.txt'
 
     '<file-id> <start-time> <end-time> <speaker> <type>'
     with open(rttm_filename, 'r') as fh:
@@ -75,9 +76,13 @@ def main():
     fig = plt.figure()
     ax = plt.axes()
     ax.add_collection(lc)
-    plt.xlim(-1, 410)
-    plt.ylim(0, 4.5)
+    ax.autoscale()
+    ax.margins(0.1)
+    # plt.xlim(-1, 410)
+    # plt.ylim(1, 4)
     plt.title("A Sine Curve")
+    # my_xticks = ['1', '2', '3', '4']
+    # plt.yticks(x, my_xticks)
     plt.xlabel("x")
     plt.ylabel("sin(x)")
     # plt.plot([], [], color="red", label="manual")
