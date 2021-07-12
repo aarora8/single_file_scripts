@@ -19,9 +19,12 @@ def main():
     for file_name in list_of_files:
         text_file_handle = open(file_name, 'r', encoding='utf8')
         text_file_data = text_file_handle.read().strip().split("\n")
+        file_name = file_name.strip().split('/')[-1]
         for line in text_file_data:
-            parts = line.strip().split("\n")
-            output_transcript_handle.write(" ".join(parts) + '\n')
+            parts = line.strip().split()
+            topic_info = " ".join(parts)
+            output = file_name + ' ' +  topic_info
+            output_transcript_handle.write(output + '\n')
 
 
 if __name__ == '__main__':

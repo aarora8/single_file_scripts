@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # This script visualize RTTM file with matplotlib
 # "rttm: <type> <file-id> <channel-id> <begin-time> <duration> <NA> <NA> <speaker> <conf>"
+#
 
 import matplotlib
 matplotlib.use('Agg')
@@ -13,7 +14,7 @@ import sys
 def main():
     # rttm_filename = sys.argv[1]
     # uttname = sys.argv[2]
-    rttm_filename = "/Users/ashisharora/Desktop/opensat_oct/check2"
+    rttm_filename = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text'
     uttname = "0001_20190110_200708_part1_AB_xxxxx"
     with open(rttm_filename, 'r') as fh:
         content = fh.readlines()
