@@ -13,6 +13,8 @@ def main():
     input_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/topic_text'
     text_file_handle = open(input_transcript, 'r', encoding='utf8')
     text_file_data = text_file_handle.read().strip().split("\n")
+    output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/analysis/secondary_topic_id'
+    output_transcript_handle = open(output_transcript, 'w', encoding='utf8')
     primary_topic2duration = dict()
     secondary_topic2duration = dict()
     for line in text_file_data:
@@ -32,10 +34,11 @@ def main():
                 primary_topic2duration[topic] += 1
             else:
                 secondary_topic2duration[topic]+= 1
+                output_transcript_handle.write(topic + '\n')
     
-    for key in sorted(secondary_topic2duration):
-        output_str = str(key) + " " + str(secondary_topic2duration[key])
-        print(output_str)
+    # for key in sorted(secondary_topic2duration):
+    #     output_str = str(key) + " " + str(secondary_topic2duration[key])
+    #     print(output_str)
 
 if __name__ == '__main__':
     main()
