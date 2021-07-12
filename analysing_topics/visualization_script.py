@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # This script visualize RTTM file with matplotlib
 # "rttm: <type> <file-id> <channel-id> <begin-time> <duration> <NA> <NA> <speaker> <conf>"
-#
+# 'fileid start-time end-time speaker type'
 
 import matplotlib
 matplotlib.use('Agg')
