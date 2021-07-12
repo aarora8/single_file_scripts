@@ -1,21 +1,20 @@
 #!/usr/bin/python3
 # This script visualize RTTM file with matplotlib
 # "rttm: <type> <file-id> <channel-id> <begin-time> <duration> <NA> <NA> <speaker> <conf>"
-# 'fileid start-time end-time speaker type'
+# '<file-id> <start-time> <end-time> <speaker> <type>'
 
 import matplotlib
 matplotlib.use('Agg')
 import numpy as np
 import pylab as pl
 from matplotlib import collections  as mc
-import sys
-
+from datetime import datetime
+from datetime import timedelta
 
 def main():
-    # rttm_filename = sys.argv[1]
-    # uttname = sys.argv[2]
-    rttm_filename = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text'
-    uttname = "0001_20190110_200708_part1_AB_xxxxx"
+    rttm_filename = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text.txt'
+    uttname = '20200925_1525_0087_0088_01_01_toen.txt'
+    '<file-id> <start-time> <end-time> <speaker> <type>'
     with open(rttm_filename, 'r') as fh:
         content = fh.readlines()
 
@@ -28,12 +27,23 @@ def main():
     for line in content:
         line = line.strip('\n')
         line_split = line.split()
-        if line_split[1] != uttname:
+        if line_split[0] != uttname:
             continue
         num_seg += 1
-        start_time = float(line_split[3])
-        end_time = start_time + float(line_split[4])
-        speaker = line_split[7]
+        start_seconds_txt = line_split[1].strip().split('.')[0]
+        end_seconds_txt = line_split[2].strip().split('.')[0]
+        if ':' in line_split[1]:
+            start_yms = datetime.strptime(start_seconds_txt, '%M:%S')
+            start_seconds=(start_yms-datetime(1900,1,1)).total_seconds()
+            end_yms = datetime.strptime(end_seconds_txt, '%M:%S')
+            end_seconds=(end_yms-datetime(1900,1,1)).total_seconds()
+        else:
+            start_seconds = timedelta(seconds=int(start_seconds_txt))
+            end_seconds = timedelta(seconds=int(end_seconds_txt))
+
+        start_time = start_seconds
+        end_time = end_seconds
+        speaker = line_split[3]
         start_time_list.append(start_time)
         end_time_list.append(end_time)
         if speaker not in spkname_dict:
@@ -46,6 +56,7 @@ def main():
     seg_list = []
     color_list = []
     for i in range(num_seg):
+        print("speaker {}: {} start {} end".format(speaker_list[i], start_time_list[i], end_time_list[i]))
         seg_list.append([(start_time_list[i], speaker_list[i]), (end_time_list[i], speaker_list[i])])
         color_list.append(c[speaker_list[i] % 10])
     lc = mc.LineCollection(seg_list, colors=color_list, linewidths=2)
