@@ -21,9 +21,9 @@ def main():
     Segment = namedtuple('Segment', 'reco topic topicid start end type')
     curr_reco = text_file_data[0].strip().split()[0]
     prev_reco = text_file_data[0].strip().split()[0]
-    segments = []
-    topic_dict = {}
-    topic_dict2 = {}
+    segments = list()
+    topic_dict = dict()
+    topic_dict2 = dict()
     for line in text_file_data:
         parts = line.strip().split()
         if len(parts) == 5:
@@ -39,7 +39,7 @@ def main():
                 c = ['blue', 'orange', 'green', 'red', 'purple', 'black', 'yellow', 'pink', 'cyan', 'magenta']
                 for _, seg in enumerate(segments):
                     # print(' Reco: {} Topic: {}  Start time: {}  End time: {} '.format(prev_reco, seg.topic, seg.start, seg.end))
-                    output_topic_handle.write("Reco: {0} Topic: {1} Start time: {2} End time: {3} + \n".format(prev_reco, seg.topic, seg.start, seg.end))
+                    output_topic_handle.write("Reco: {0} Topic: {1} Start time: {2} End time: {3} \n".format(prev_reco, seg.topic, seg.start, seg.end))
                     # add label only if it is a new label
                     str_label = seg.topic
                     if str_label not in topic_dict2:
