@@ -1,626 +1,626 @@
-Reco: 20200813_1326_0001_0002_02_01_toen.txt Start time: 359.0 End time: 360.0 Topics: overlap 
-Reco: 20200813_1326_0001_0002_02_01_toen.txt Start time: 361.0 End time: 493.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 33.0 End time: 57.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 72.0 End time: 84.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 85.0 End time: 130.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 130.0 End time: 158.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 159.0 End time: 177.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 180.0 End time: 210.0 Topics: overlap 
-Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 236.0 End time: 263.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 39.0 End time: 92.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 92.0 End time: 125.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 125.0 End time: 152.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 152.0 End time: 211.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 211.0 End time: 230.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 230.0 End time: 299.0 Topics: overlap 
-Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 299.0 End time: 340.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 11.0 End time: 13.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 93.0 End time: 122.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 122.0 End time: 131.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 131.0 End time: 133.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 133.0 End time: 141.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 148.0 End time: 240.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 243.0 End time: 301.0 Topics: overlap 
-Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 301.0 End time: 326.0 Topics: overlap 
-Reco: 20200814_0909_0013_0015_01_01_toen.txt Start time: 291.0 End time: 311.0 Topics: overlap 
-Reco: 20200814_0917_0013_0015_02_01_toen.txt Start time: 221.0 End time: 238.0 Topics: overlap 
-Reco: 20200814_1010_0007_0008_01_01_toen.txt Start time: 124.0 End time: 139.0 Topics: overlap 
-Reco: 20200814_1010_0007_0008_01_01_toen.txt Start time: 289.0 End time: 297.0 Topics: overlap 
-Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 109.0 End time: 154.0 Topics: overlap 
-Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 215.0 End time: 303.0 Topics: overlap 
-Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 330.0 End time: 353.0 Topics: overlap 
-Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 366.0 End time: 398.0 Topics: overlap 
-Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 417.0 End time: 430.0 Topics: overlap 
-Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 430.0 End time: 440.0 Topics: overlap 
-Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 21.0 End time: 67.0 Topics: overlap 
-Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 81.0 End time: 167.0 Topics: overlap 
-Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 200.0 End time: 215.0 Topics: overlap 
-Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 230.0 End time: 297.0 Topics: overlap 
-Reco: 20200814_1533_0005_0006_02_01_toen.txt Start time: 419.0 End time: 442.0 Topics: overlap 
-Reco: 20200814_1533_0005_0006_02_01_toen.txt Start time: 451.0 End time: 524.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 178.0 End time: 196.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 231.0 End time: 273.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 282.0 End time: 341.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 342.0 End time: 454.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 455.0 End time: 461.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 482.0 End time: 493.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 495.0 End time: 512.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 514.0 End time: 519.0 Topics: overlap 
-Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 519.0 End time: 522.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 24.0 End time: 25.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 25.0 End time: 27.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 126.0 End time: 136.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 207.0 End time: 237.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 238.0 End time: 268.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 269.0 End time: 299.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 300.0 End time: 362.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 365.0 End time: 453.0 Topics: overlap 
-Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 462.0 End time: 470.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 55.0 End time: 57.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 60.0 End time: 62.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 64.0 End time: 65.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 81.0 End time: 88.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 98.0 End time: 101.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 105.0 End time: 115.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 156.0 End time: 159.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 182.0 End time: 196.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 198.0 End time: 205.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 226.0 End time: 232.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 287.0 End time: 288.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 318.0 End time: 320.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 320.0 End time: 321.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 377.0 End time: 391.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 407.0 End time: 443.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 453.0 End time: 457.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 470.0 End time: 478.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 483.0 End time: 485.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 490.0 End time: 494.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 506.0 End time: 529.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 529.0 End time: 538.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 540.0 End time: 577.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 605.0 End time: 609.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 621.0 End time: 623.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 624.0 End time: 625.0 Topics: overlap 
-Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 638.0 End time: 642.0 Topics: overlap 
-Reco: 20200817_0919_0002_0001_05_01_toen.txt Start time: 218.0 End time: 239.0 Topics: overlap 
-Reco: 20200817_1100_0004_0003_04_01_toen.txt Start time: 86.0 End time: 133.0 Topics: overlap 
-Reco: 20200817_1100_0004_0003_04_01_toen.txt Start time: 250.0 End time: 282.0 Topics: overlap 
-Reco: 20200817_1107_0004_0003_05_01_toen.txt Start time: 106.0 End time: 128.0 Topics: overlap 
-Reco: 20200817_1107_0004_0003_05_01_toen.txt Start time: 129.0 End time: 261.0 Topics: overlap 
-Reco: 20200817_1107_0004_0003_05_01_toen.txt Start time: 293.0 End time: 335.0 Topics: overlap 
-Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 35.0 End time: 61.0 Topics: overlap 
-Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 61.0 End time: 72.0 Topics: overlap 
-Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 72.0 End time: 176.0 Topics: overlap 
-Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 193.0 End time: 240.0 Topics: overlap 
-Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 248.0 End time: 250.0 Topics: overlap 
-Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 272.0 End time: 276.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 35.0 End time: 37.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 89.0 End time: 96.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 141.0 End time: 159.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 171.0 End time: 202.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 251.0 End time: 257.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 331.0 End time: 337.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 345.0 End time: 355.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 355.0 End time: 367.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 367.0 End time: 370.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 376.0 End time: 386.0 Topics: overlap 
-Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 411.0 End time: 415.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 49.0 End time: 71.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 95.0 End time: 102.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 138.0 End time: 146.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 227.0 End time: 239.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 272.0 End time: 281.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 348.0 End time: 351.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 528.0 End time: 545.0 Topics: overlap 
-Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 548.0 End time: 566.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 148.0 End time: 152.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 170.0 End time: 172.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 250.0 End time: 262.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 303.0 End time: 310.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 321.0 End time: 327.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 342.0 End time: 376.0 Topics: overlap 
-Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 397.0 End time: 403.0 Topics: overlap 
-Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 215.0 End time: 244.0 Topics: overlap 
-Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 293.0 End time: 295.0 Topics: overlap 
-Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 317.0 End time: 339.0 Topics: overlap 
-Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 364.0 End time: 392.0 Topics: overlap 
-Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 18.0 End time: 20.0 Topics: overlap 
-Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 20.0 End time: 26.0 Topics: overlap 
-Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 255.0 End time: 267.0 Topics: overlap 
-Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 313.0 End time: 320.0 Topics: overlap 
-Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 36.0 End time: 47.0 Topics: overlap 
-Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 50.0 End time: 80.0 Topics: overlap 
-Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 111.0 End time: 162.0 Topics: overlap 
-Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 256.0 End time: 261.0 Topics: overlap 
-Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 282.0 End time: 292.0 Topics: overlap 
-Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 327.0 End time: 346.0 Topics: overlap 
-Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 164.0 End time: 177.0 Topics: overlap 
-Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 253.0 End time: 285.0 Topics: overlap 
-Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 326.0 End time: 386.0 Topics: overlap 
-Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 472.0 End time: 487.0 Topics: overlap 
-Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 488.0 End time: 499.0 Topics: overlap 
-Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 514.0 End time: 517.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 63.0 End time: 72.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 166.0 End time: 187.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 223.0 End time: 240.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 264.0 End time: 272.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 329.0 End time: 351.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 380.0 End time: 402.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 402.0 End time: 432.0 Topics: overlap 
-Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 497.0 End time: 501.0 Topics: overlap 
-Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 84.0 End time: 96.0 Topics: overlap 
-Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 102.0 End time: 125.0 Topics: overlap 
-Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 315.0 End time: 317.0 Topics: overlap 
-Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 384.0 End time: 405.0 Topics: overlap 
-Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 447.0 End time: 552.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 22.0 End time: 30.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 70.0 End time: 73.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 81.0 End time: 94.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 101.0 End time: 160.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 175.0 End time: 204.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 266.0 End time: 363.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 369.0 End time: 408.0 Topics: overlap 
-Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 450.0 End time: 453.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 82.0 End time: 99.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 165.0 End time: 192.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 193.0 End time: 206.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 210.0 End time: 216.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 316.0 End time: 348.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 367.0 End time: 373.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 376.0 End time: 379.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 433.0 End time: 448.0 Topics: overlap 
-Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 461.0 End time: 473.0 Topics: overlap 
-Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 48.0 End time: 122.0 Topics: overlap 
-Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 122.0 End time: 133.0 Topics: overlap 
-Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 133.0 End time: 142.0 Topics: overlap 
-Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 339.0 End time: 409.0 Topics: overlap 
-Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 413.0 End time: 429.0 Topics: overlap 
-Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 438.0 End time: 459.0 Topics: overlap 
-Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 174.0 End time: 185.0 Topics: overlap 
-Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 266.0 End time: 350.0 Topics: overlap 
-Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 389.0 End time: 442.0 Topics: overlap 
-Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 457.0 End time: 502.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 51.0 End time: 60.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 112.0 End time: 114.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 118.0 End time: 126.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 143.0 End time: 145.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 149.0 End time: 161.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 201.0 End time: 211.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 212.0 End time: 213.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 213.0 End time: 223.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 226.0 End time: 242.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 243.0 End time: 272.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 317.0 End time: 340.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 377.0 End time: 421.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 428.0 End time: 466.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 490.0 End time: 495.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 497.0 End time: 500.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 523.0 End time: 529.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 537.0 End time: 551.0 Topics: overlap 
-Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 602.0 End time: 617.0 Topics: overlap 
-Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 46.0 End time: 53.0 Topics: overlap 
-Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 72.0 End time: 107.0 Topics: overlap 
-Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 245.0 End time: 277.0 Topics: overlap 
-Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 329.0 End time: 339.0 Topics: overlap 
-Reco: 20200820_1016_0029_0020_01_01_toen.txt Start time: 35.0 End time: 38.0 Topics: overlap 
-Reco: 20200820_1016_0029_0020_01_01_toen.txt Start time: 76.0 End time: 153.0 Topics: overlap 
-Reco: 20200820_1024_0029_0020_02_01_toen.txt Start time: 22.0 End time: 30.0 Topics: overlap 
-Reco: 20200820_1024_0029_0020_02_01_toen.txt Start time: 42.0 End time: 49.0 Topics: overlap 
-Reco: 20200820_1024_0029_0020_02_01_toen.txt Start time: 56.0 End time: 373.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 34.0 End time: 41.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 67.0 End time: 88.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 231.0 End time: 238.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 299.0 End time: 306.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 352.0 End time: 359.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 381.0 End time: 398.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 509.0 End time: 516.0 Topics: overlap 
-Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 516.0 End time: 534.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 30.0 End time: 38.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 45.0 End time: 48.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 81.0 End time: 99.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 156.0 End time: 160.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 163.0 End time: 181.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 183.0 End time: 195.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 208.0 End time: 214.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 215.0 End time: 232.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 236.0 End time: 244.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 244.0 End time: 246.0 Topics: overlap 
-Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 252.0 End time: 289.0 Topics: overlap 
-Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 76.0 End time: 191.0 Topics: overlap 
-Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 191.0 End time: 209.0 Topics: overlap 
-Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 223.0 End time: 271.0 Topics: overlap 
-Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 308.0 End time: 322.0 Topics: overlap 
-Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 413.0 End time: 424.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 30.0 End time: 76.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 129.0 End time: 138.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 141.0 End time: 152.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 153.0 End time: 164.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 165.0 End time: 204.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 207.0 End time: 242.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 281.0 End time: 285.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 295.0 End time: 303.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 303.0 End time: 306.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 312.0 End time: 321.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 328.0 End time: 340.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 344.0 End time: 348.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 399.0 End time: 414.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 415.0 End time: 421.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 453.0 End time: 506.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 511.0 End time: 513.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 513.0 End time: 517.0 Topics: overlap 
-Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 518.0 End time: 522.0 Topics: overlap 
-Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 59.0 End time: 188.0 Topics: overlap 
-Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 208.0 End time: 370.0 Topics: overlap 
-Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 373.0 End time: 379.0 Topics: overlap 
-Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 385.0 End time: 390.0 Topics: overlap 
-Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 394.0 End time: 399.0 Topics: overlap 
-Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 412.0 End time: 421.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 29.0 End time: 46.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 49.0 End time: 191.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 207.0 End time: 210.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 423.0 End time: 426.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 584.0 End time: 591.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 594.0 End time: 596.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 601.0 End time: 602.0 Topics: overlap 
-Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 603.0 End time: 618.0 Topics: overlap 
-Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 17.0 End time: 31.0 Topics: overlap 
-Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 47.0 End time: 48.0 Topics: overlap 
-Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 236.0 End time: 249.0 Topics: overlap 
-Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 282.0 End time: 300.0 Topics: overlap 
-Reco: 20200821_1202_0019_0018_04_01_toen.txt Start time: 90.0 End time: 149.0 Topics: overlap 
-Reco: 20200824_0848_0010_0009_03_01_toen.txt Start time: 21.0 End time: 26.0 Topics: overlap 
-Reco: 20200824_0905_0010_0009_04_02_toen.txt Start time: 36.0 End time: 44.0 Topics: overlap 
-Reco: 20200824_0905_0010_0009_04_02_toen.txt Start time: 74.0 End time: 80.0 Topics: overlap 
-Reco: 20200824_0905_0010_0009_04_02_toen.txt Start time: 91.0 End time: 101.0 Topics: overlap 
-Reco: 20200824_1112_0023_0033_01_01_toen.txt Start time: 191.0 End time: 201.0 Topics: overlap 
-Reco: 20200824_1112_0023_0033_01_01_toen.txt Start time: 262.0 End time: 280.0 Topics: overlap 
-Reco: 20200824_1112_0023_0033_01_01_toen.txt Start time: 457.0 End time: 463.0 Topics: overlap 
-Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 11.0 End time: 16.0 Topics: overlap 
-Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 16.0 End time: 21.0 Topics: overlap 
-Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 293.0 End time: 345.0 Topics: overlap 
-Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 345.0 End time: 370.0 Topics: overlap 
-Reco: 20200824_1420_0030_0013_01_01_toen.txt Start time: 11.0 End time: 14.0 Topics: overlap 
-Reco: 20200824_1420_0030_0013_01_01_toen.txt Start time: 375.0 End time: 420.0 Topics: overlap 
-Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 28.0 End time: 31.0 Topics: overlap 
-Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 31.0 End time: 159.0 Topics: overlap 
-Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 159.0 End time: 285.0 Topics: overlap 
-Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 438.0 End time: 454.0 Topics: overlap 
-Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 459.0 End time: 483.0 Topics: overlap 
-Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 483.0 End time: 495.0 Topics: overlap 
-Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 52.0 End time: 120.0 Topics: overlap 
-Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 120.0 End time: 125.0 Topics: overlap 
-Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 152.0 End time: 155.0 Topics: overlap 
-Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 305.0 End time: 331.0 Topics: overlap 
-Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 33.0 End time: 34.0 Topics: overlap 
-Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 46.0 End time: 56.0 Topics: overlap 
-Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 111.0 End time: 119.0 Topics: overlap 
-Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 244.0 End time: 256.0 Topics: overlap 
-Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 413.0 End time: 440.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 38.0 End time: 57.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 64.0 End time: 74.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 103.0 End time: 112.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 113.0 End time: 136.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 136.0 End time: 139.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 186.0 End time: 189.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 231.0 End time: 239.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 277.0 End time: 292.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 297.0 End time: 301.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 304.0 End time: 307.0 Topics: overlap 
-Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 312.0 End time: 329.0 Topics: overlap 
-Reco: 20200825_0918_0011_0012_02_01_toen.txt Start time: 207.0 End time: 356.0 Topics: overlap 
-Reco: 20200825_0918_0011_0012_02_01_toen.txt Start time: 363.0 End time: 431.0 Topics: overlap 
-Reco: 20200825_0928_0011_0012_03_01_toen.txt Start time: 37.0 End time: 55.0 Topics: overlap 
-Reco: 20200825_0928_0011_0012_03_01_toen.txt Start time: 86.0 End time: 121.0 Topics: overlap 
-Reco: 20200825_1100_0020_0029_04_01_toen.txt Start time: 165.0 End time: 265.0 Topics: overlap 
-Reco: 20200825_1100_0020_0029_04_01_toen.txt Start time: 334.0 End time: 385.0 Topics: overlap 
-Reco: 20200825_1100_0020_0029_04_01_toen.txt Start time: 386.0 End time: 459.0 Topics: overlap 
-Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 39.0 End time: 101.0 Topics: overlap 
-Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 103.0 End time: 111.0 Topics: overlap 
-Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 127.0 End time: 134.0 Topics: overlap 
-Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 242.0 End time: 248.0 Topics: overlap 
-Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 583.0 End time: 586.0 Topics: overlap 
-Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 588.0 End time: 592.0 Topics: overlap 
-Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 105.0 End time: 113.0 Topics: overlap 
-Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 129.0 End time: 141.0 Topics: overlap 
-Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 143.0 End time: 165.0 Topics: overlap 
-Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 187.0 End time: 188.0 Topics: overlap 
-Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 257.0 End time: 258.0 Topics: overlap 
-Reco: 20200825_1440_0032_0038_02_02_toen.txt Start time: 17.0 End time: 23.0 Topics: overlap 
-Reco: 20200825_1440_0032_0038_02_02_toen.txt Start time: 392.0 End time: 507.0 Topics: overlap 
-Reco: 20200825_1615_0026_0004_04_01_toen.txt Start time: 83.0 End time: 160.0 Topics: overlap 
-Reco: 20200825_1615_0026_0004_04_01_toen.txt Start time: 242.0 End time: 257.0 Topics: overlap 
-Reco: 20200825_1615_0026_0004_04_01_toen.txt Start time: 257.0 End time: 273.0 Topics: overlap 
-Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 156.0 End time: 163.0 Topics: overlap 
-Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 164.0 End time: 280.0 Topics: overlap 
-Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 280.0 End time: 308.0 Topics: overlap 
-Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 308.0 End time: 358.0 Topics: overlap 
-Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 434.0 End time: 460.0 Topics: overlap 
-Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 208.0 End time: 250.0 Topics: overlap 
-Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 293.0 End time: 294.0 Topics: overlap 
-Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 338.0 End time: 371.0 Topics: overlap 
-Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 376.0 End time: 404.0 Topics: overlap 
-Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 407.0 End time: 414.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 253.0 End time: 270.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 270.0 End time: 337.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 375.0 End time: 408.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 443.0 End time: 455.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 464.0 End time: 471.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 536.0 End time: 540.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 564.0 End time: 571.0 Topics: overlap 
-Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 590.0 End time: 598.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 127.0 End time: 137.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 138.0 End time: 148.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 196.0 End time: 206.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 237.0 End time: 249.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 254.0 End time: 259.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 269.0 End time: 275.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 275.0 End time: 280.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 311.0 End time: 315.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 359.0 End time: 361.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 376.0 End time: 408.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 442.0 End time: 444.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 468.0 End time: 515.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 550.0 End time: 561.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 565.0 End time: 577.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 599.0 End time: 611.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 617.0 End time: 623.0 Topics: overlap 
-Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 623.0 End time: 646.0 Topics: overlap 
-Reco: 20200826_1025_0011_0017_01_02_toen.txt Start time: 26.0 End time: 105.0 Topics: overlap 
-Reco: 20200826_1025_0011_0017_01_02_toen.txt Start time: 111.0 End time: 126.0 Topics: overlap 
-Reco: 20200826_1025_0011_0017_01_02_toen.txt Start time: 196.0 End time: 234.0 Topics: overlap 
-Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 64.0 End time: 75.0 Topics: overlap 
-Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 89.0 End time: 91.0 Topics: overlap 
-Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 111.0 End time: 115.0 Topics: overlap 
-Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 124.0 End time: 129.0 Topics: overlap 
-Reco: 20200826_1201_0015_0013_06_01_toen.txt Start time: 15.0 End time: 42.0 Topics: overlap 
-Reco: 20200826_1201_0015_0013_06_01_toen.txt Start time: 125.0 End time: 136.0 Topics: overlap 
-Reco: 20200826_1201_0015_0013_06_01_toen.txt Start time: 170.0 End time: 209.0 Topics: overlap 
-Reco: 20200826_1436_0036_0037_01_01_toen.txt Start time: 315.0 End time: 334.0 Topics: overlap 
-Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 59.0 End time: 132.0 Topics: overlap 
-Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 132.0 End time: 144.0 Topics: overlap 
-Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 180.0 End time: 194.0 Topics: overlap 
-Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 509.0 End time: 521.0 Topics: overlap 
-Reco: 20200826_1610_0013_0018_04_01_toen.txt Start time: 29.0 End time: 82.0 Topics: overlap 
-Reco: 20200826_1610_0013_0018_04_01_toen.txt Start time: 83.0 End time: 94.0 Topics: overlap 
-Reco: 20200826_1610_0013_0018_04_01_toen.txt Start time: 184.0 End time: 305.0 Topics: overlap 
-Reco: 20200827_0925_0047_0048_01_01_toen.txt Start time: 31.0 End time: 79.0 Topics: overlap 
-Reco: 20200827_0925_0047_0048_01_01_toen.txt Start time: 136.0 End time: 247.0 Topics: overlap 
-Reco: 20200827_0930_0047_0048_02_01_toen.txt Start time: 420.0 End time: 502.0 Topics: overlap 
-Reco: 20200827_0942_0047_0048_03_01_toen.txt Start time: 174.0 End time: 182.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 168.0 End time: 190.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 190.0 End time: 227.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 239.0 End time: 250.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 589.0 End time: 602.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 689.0 End time: 782.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 790.0 End time: 815.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 815.0 End time: 827.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 839.0 End time: 849.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 849.0 End time: 853.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 853.0 End time: 871.0 Topics: overlap 
-Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 922.0 End time: 945.0 Topics: overlap 
-Reco: 20200827_1117_0024_0003_03_01_toen.txt Start time: 379.0 End time: 470.0 Topics: overlap 
-Reco: 20200827_1117_0024_0003_03_01_toen.txt Start time: 531.0 End time: 547.0 Topics: overlap 
-Reco: 20200827_1117_0024_0003_03_01_toen.txt Start time: 737.0 End time: 805.0 Topics: overlap 
-Reco: 20200827_1331_0041_0042_01_01_toen.txt Start time: 635.0 End time: 718.0 Topics: overlap 
-Reco: 20200827_1525_0016_0046_01_01_toen.txt Start time: 120.0 End time: 304.0 Topics: overlap 
-Reco: 20200827_1525_0016_0046_01_01_toen.txt Start time: 358.0 End time: 377.0 Topics: overlap 
-Reco: 20200827_1525_0016_0046_01_01_toen.txt Start time: 443.0 End time: 447.0 Topics: overlap 
-Reco: 20200828_0928_0020_0021_02_01_toen.txt Start time: 7.0 End time: 11.0 Topics: overlap 
-Reco: 20200828_0928_0020_0021_02_01_toen.txt Start time: 269.0 End time: 276.0 Topics: overlap 
-Reco: 20200828_1022_0039_0040_02_01_toen.txt Start time: 152.0 End time: 165.0 Topics: overlap 
-Reco: 20200828_1518_0021_0025_02_01_toen.txt Start time: 186.0 End time: 368.0 Topics: overlap 
-Reco: 20200828_1600_0013_0030_02_01_toen.txt Start time: 323.0 End time: 353.0 Topics: overlap 
-Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 129.0 End time: 156.0 Topics: overlap 
-Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 391.0 End time: 416.0 Topics: overlap 
-Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 417.0 End time: 432.0 Topics: overlap 
-Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 433.0 End time: 603.0 Topics: overlap 
-Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 627.0 End time: 650.0 Topics: overlap 
-Reco: 20200831_1145_0032_0031_04_01_toen.txt Start time: 82.0 End time: 94.0 Topics: overlap 
-Reco: 20200831_1145_0032_0031_04_01_toen.txt Start time: 449.0 End time: 457.0 Topics: overlap 
-Reco: 20200831_1154_0032_0031_05_01_toen.txt Start time: 46.0 End time: 57.0 Topics: overlap 
-Reco: 20200831_1154_0032_0031_05_01_toen.txt Start time: 514.0 End time: 525.0 Topics: overlap 
-Reco: 20200831_1154_0032_0031_05_01_toen.txt Start time: 637.0 End time: 646.0 Topics: overlap 
-Reco: 20200831_1600_0042_0041_02_01_toen.txt Start time: 16.0 End time: 25.0 Topics: overlap 
-Reco: 20200831_1609_0042_0041_03_01_toen.txt Start time: 358.0 End time: 367.0 Topics: overlap 
-Reco: 20200831_1700_0033_0023_03_01_toen.txt Start time: 168.0 End time: 489.0 Topics: overlap 
-Reco: 20200901_0900_0012_0011_04_01_toen.txt Start time: 29.0 End time: 59.0 Topics: overlap 
-Reco: 20200901_0900_0012_0011_04_01_toen.txt Start time: 342.0 End time: 383.0 Topics: overlap 
-Reco: 20200901_0900_0012_0011_04_01_toen.txt Start time: 383.0 End time: 437.0 Topics: overlap 
-Reco: 20200901_0910_0012_0011_05_01_toen.txt Start time: 200.0 End time: 284.0 Topics: overlap 
-Reco: 20200901_1100_0038_0032_03_01_toen.txt Start time: 331.0 End time: 425.0 Topics: overlap 
-Reco: 20200901_1110_0038_0032_04_01_toen.txt Start time: 15.0 End time: 21.0 Topics: overlap 
-Reco: 20200901_1110_0038_0032_04_01_toen.txt Start time: 546.0 End time: 555.0 Topics: overlap 
-Reco: 20200901_1600_0037_0036_03_01_toen.txt Start time: 262.0 End time: 291.0 Topics: overlap 
-Reco: 20200901_1600_0037_0036_03_01_toen.txt Start time: 418.0 End time: 428.0 Topics: overlap 
-Reco: 20200901_1609_0037_0036_04_01_toen.txt Start time: 13.0 End time: 16.0 Topics: overlap 
-Reco: 20200901_1609_0037_0036_04_01_toen.txt Start time: 250.0 End time: 267.0 Topics: overlap 
-Reco: 20200902_1106_0021_0020_04_01_toen.txt Start time: 8.0 End time: 9.0 Topics: overlap 
-Reco: 20200902_1106_0021_0020_04_01_toen.txt Start time: 227.0 End time: 257.0 Topics: overlap 
-Reco: 20200902_1106_0021_0020_04_01_toen.txt Start time: 326.0 End time: 366.0 Topics: overlap 
-Reco: 20200902_1118_0021_0020_04_02_toen.txt Start time: 79.0 End time: 102.0 Topics: overlap 
-Reco: 20200902_1606_0040_0039_05_01_toen.txt Start time: 82.0 End time: 128.0 Topics: overlap 
-Reco: 20200902_1606_0040_0039_05_01_toen.txt Start time: 213.0 End time: 250.0 Topics: overlap 
-Reco: 20200902_1616_0040_0039_06_01_toen.txt Start time: 115.0 End time: 205.0 Topics: overlap 
-Reco: 20200902_1810_0049_0042_01_01_toen.txt Start time: 70.0 End time: 74.0 Topics: overlap 
-Reco: 20200902_1824_0049_0042_03_01_toen.txt Start time: 235.0 End time: 305.0 Topics: overlap 
-Reco: 20200902_1824_0049_0042_03_01_toen.txt Start time: 314.0 End time: 322.0 Topics: overlap 
-Reco: 20200907_0900_0048_0047_04_01_toen.txt Start time: 256.0 End time: 364.0 Topics: overlap 
-Reco: 20200907_0900_0048_0047_04_01_toen.txt Start time: 461.0 End time: 558.0 Topics: overlap 
-Reco: 20200907_1011_0054_0055_01_01_toen.txt Start time: 193.0 End time: 316.0 Topics: overlap 
-Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 19.0 End time: 22.0 Topics: overlap 
-Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 210.0 End time: 305.0 Topics: overlap 
-Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 338.0 End time: 352.0 Topics: overlap 
-Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 448.0 End time: 474.0 Topics: overlap 
-Reco: 20200908_1658_0056_0057_02_01_toen.txt Start time: 176.0 End time: 197.0 Topics: overlap 
-Reco: 20200908_1658_0056_0057_02_01_toen.txt Start time: 288.0 End time: 307.0 Topics: overlap 
-Reco: 20200908_1658_0056_0057_02_01_toen.txt Start time: 401.0 End time: 412.0 Topics: overlap 
-Reco: 20200908_1742_0053_0050_05_01_toen.txt Start time: 433.0 End time: 448.0 Topics: overlap 
-Reco: 20200908_1837_0052_0051_03_01_toen.txt Start time: 40.0 End time: 43.0 Topics: overlap 
-Reco: 20200908_1837_0052_0051_03_01_toen.txt Start time: 102.0 End time: 223.0 Topics: overlap 
-Reco: 20200908_1837_0052_0051_03_01_toen.txt Start time: 292.0 End time: 294.0 Topics: overlap 
-Reco: 20200909_1351_0045_0044_05_01_toen.txt Start time: 186.0 End time: 228.0 Topics: overlap 
-Reco: 20200909_1351_0045_0044_05_01_toen.txt Start time: 263.0 End time: 311.0 Topics: overlap 
-Reco: 20200909_1420_0025_0021_04_01_toen.txt Start time: 18.0 End time: 22.0 Topics: overlap 
-Reco: 20200909_1422_0025_0021_04_02_toen.txt Start time: 91.0 End time: 93.0 Topics: overlap 
-Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 213.0 End time: 280.0 Topics: overlap 
-Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 280.0 End time: 313.0 Topics: overlap 
-Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 434.0 End time: 512.0 Topics: overlap 
-Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 563.0 End time: 602.0 Topics: overlap 
-Reco: 20200911_1145_0055_0054_03_01_toen.txt Start time: 205.0 End time: 218.0 Topics: overlap 
-Reco: 20200911_1145_0055_0054_03_01_toen.txt Start time: 219.0 End time: 241.0 Topics: overlap 
-Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 394.0 End time: 403.0 Topics: overlap 
-Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 407.0 End time: 419.0 Topics: overlap 
-Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 422.0 End time: 443.0 Topics: overlap 
-Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 445.0 End time: 462.0 Topics: overlap 
-Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 463.0 End time: 485.0 Topics: overlap 
-Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 51.0 End time: 61.0 Topics: overlap 
-Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 147.0 End time: 196.0 Topics: overlap 
-Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 219.0 End time: 292.0 Topics: overlap 
-Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 353.0 End time: 376.0 Topics: overlap 
-Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 379.0 End time: 402.0 Topics: overlap 
-Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 411.0 End time: 501.0 Topics: overlap 
-Reco: 20200914_1145_0035_0034_04_01_toen.txt Start time: 663.0 End time: 674.0 Topics: overlap 
-Reco: 20200914_1158_0035_0034_05_01_toen.txt Start time: 43.0 End time: 65.0 Topics: overlap 
-Reco: 20200914_1158_0035_0034_05_01_toen.txt Start time: 65.0 End time: 161.0 Topics: overlap 
-Reco: 20200915_1630_0034_0060_03_01_toen.txt Start time: 162.0 End time: 190.0 Topics: overlap 
-Reco: 20200915_1630_0034_0060_03_01_toen.txt Start time: 349.0 End time: 357.0 Topics: overlap 
-Reco: 20200915_1637_0034_0060_04_01_toen.txt Start time: 22.0 End time: 26.0 Topics: overlap 
-Reco: 20200915_1637_0034_0060_04_01_toen.txt Start time: 59.0 End time: 286.0 Topics: overlap 
-Reco: 20200915_1637_0034_0060_04_01_toen.txt Start time: 318.0 End time: 326.0 Topics: overlap 
-Reco: 20200915_1644_0034_0060_05_01_toen.txt Start time: 19.0 End time: 106.0 Topics: overlap 
-Reco: 20200915_1648_0034_0060_06_01_toen.txt Start time: 61.0 End time: 71.0 Topics: overlap 
-Reco: 20200915_1648_0034_0060_06_01_toen.txt Start time: 91.0 End time: 104.0 Topics: overlap 
-Reco: 20200915_1648_0034_0060_06_01_toen.txt Start time: 110.0 End time: 130.0 Topics: overlap 
-Reco: 20200915_1742_0061_0064_01_01_toen.txt Start time: 89.0 End time: 124.0 Topics: overlap 
-Reco: 20200915_1742_0061_0064_01_01_toen.txt Start time: 391.0 End time: 392.0 Topics: overlap 
-Reco: 20200915_1750_0061_0064_01_02_toen.txt Start time: 13.0 End time: 38.0 Topics: overlap 
-Reco: 20200915_1750_0061_0064_01_02_toen.txt Start time: 209.0 End time: 212.0 Topics: overlap 
-Reco: 20200915_1750_0061_0064_01_02_toen.txt Start time: 391.0 End time: 394.0 Topics: overlap 
-Reco: 20200915_1939_0061_0066_01_01_toen.txt Start time: 70.0 End time: 120.0 Topics: overlap 
-Reco: 20200915_1948_0061_0066_02_01_toen.txt Start time: 153.0 End time: 196.0 Topics: overlap 
-Reco: 20200917_1100_0069_0070_01_01_toen.txt Start time: 31.0 End time: 40.0 Topics: overlap 
-Reco: 20200917_1100_0069_0070_01_01_toen.txt Start time: 352.0 End time: 364.0 Topics: overlap 
-Reco: 20200917_1106_0069_0070_02_01_toen.txt Start time: 687.0 End time: 697.0 Topics: overlap 
-Reco: 20200917_1253_0073_0074_02_01_toen.txt Start time: 54.0 End time: 82.0 Topics: overlap 
-Reco: 20200917_1253_0073_0074_02_01_toen.txt Start time: 292.0 End time: 331.0 Topics: overlap 
-Reco: 20200918_1115_0068_0067_02_01_toen.txt Start time: 91.0 End time: 121.0 Topics: overlap 
-Reco: 20200918_1115_0068_0067_02_01_toen.txt Start time: 269.0 End time: 318.0 Topics: overlap 
-Reco: 20200918_1124_0068_0067_03_01_toen.txt Start time: 151.0 End time: 194.0 Topics: overlap 
-Reco: 20200918_1155_0001_0065_05_01_toen.txt Start time: 206.0 End time: 214.0 Topics: overlap 
-Reco: 20200918_1200_0001_0065_06_01_toen.txt Start time: 343.0 End time: 366.0 Topics: overlap 
-Reco: 20200918_1200_0001_0065_06_01_toen.txt Start time: 543.0 End time: 552.0 Topics: overlap 
-Reco: 20200921_1100_0064_0061_02_01_toen.txt Start time: 136.0 End time: 701.0 Topics: overlap 
-Reco: 20200921_1112_0064_0061_02_02_toen.txt Start time: 14.0 End time: 19.0 Topics: overlap 
-Reco: 20200921_1112_0064_0061_02_02_toen.txt Start time: 558.0 End time: 594.0 Topics: overlap 
-Reco: 20200921_1112_0064_0061_02_02_toen.txt Start time: 599.0 End time: 637.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 38.0 End time: 48.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 48.0 End time: 51.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 68.0 End time: 105.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 124.0 End time: 147.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 147.0 End time: 157.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 157.0 End time: 163.0 Topics: overlap 
-Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 293.0 End time: 299.0 Topics: overlap 
-Reco: 20200921_1335_0074_0073_05_01_toen.txt Start time: 52.0 End time: 75.0 Topics: overlap 
-Reco: 20200921_1335_0074_0073_05_01_toen.txt Start time: 238.0 End time: 245.0 Topics: overlap 
-Reco: 20200921_1335_0074_0073_05_01_toen.txt Start time: 381.0 End time: 387.0 Topics: overlap 
-Reco: 20200921_1343_0074_0073_06_01_toen.txt Start time: 75.0 End time: 80.0 Topics: overlap 
-Reco: 20200921_1430_0081_0082_01_01_toen.txt Start time: 20.0 End time: 111.0 Topics: overlap 
-Reco: 20200921_1515_0059_0058_04_01_toen.txt Start time: 107.0 End time: 109.0 Topics: overlap 
-Reco: 20200921_1524_0059_0058_05_01_toen.txt Start time: 13.0 End time: 17.0 Topics: overlap 
-Reco: 20200921_1524_0059_0058_05_01_toen.txt Start time: 61.0 End time: 71.0 Topics: overlap 
-Reco: 20200922_1740_0071_0072_01_01_toen.txt Start time: 49.0 End time: 51.0 Topics: overlap 
-Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 19.0 End time: 24.0 Topics: overlap 
-Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 156.0 End time: 159.0 Topics: overlap 
-Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 225.0 End time: 227.0 Topics: overlap 
-Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 321.0 End time: 324.0 Topics: overlap 
-Reco: 20200922_1753_0071_0072_02_01_toen.txt Start time: 219.0 End time: 221.0 Topics: overlap 
-Reco: 20200922_1943_0079_0080_01_01_toen.txt Start time: 128.0 End time: 159.0 Topics: overlap 
-Reco: 20200922_1948_0079_0080_01_02_toen.txt Start time: 82.0 End time: 117.0 Topics: overlap 
-Reco: 20200922_2039_0075_0076_02_01_toen.txt Start time: 41.0 End time: 144.0 Topics: overlap 
-Reco: 20200922_2039_0075_0076_02_01_toen.txt Start time: 438.0 End time: 515.0 Topics: overlap 
-Reco: 20200922_2039_0075_0076_02_01_toen.txt Start time: 515.0 End time: 530.0 Topics: overlap 
-Reco: 20200923_1843_0077_0078_01_01_toen.txt Start time: 374.0 End time: 401.0 Topics: overlap 
-Reco: 20200923_1930_0080_0079_02_01_toen.txt Start time: 21.0 End time: 339.0 Topics: overlap 
-Reco: 20200923_1938_0080_0079_03_01_toen.txt Start time: 253.0 End time: 337.0 Topics: overlap 
-Reco: 20200923_1938_0080_0079_03_01_toen.txt Start time: 555.0 End time: 591.0 Topics: overlap 
-Reco: 20200923_2045_0085_0086_01_01_toen.txt Start time: 184.0 End time: 212.0 Topics: overlap 
-Reco: 20200923_2045_0085_0086_01_01_toen.txt Start time: 493.0 End time: 523.0 Topics: overlap 
-Reco: 20200923_2055_0085_0086_02_01_toen.txt Start time: 26.0 End time: 375.0 Topics: overlap 
-Reco: 20200924_1213_0066_0064_01_01_toen.txt Start time: 22.0 End time: 148.0 Topics: overlap 
-Reco: 20200924_1213_0066_0064_01_01_toen.txt Start time: 153.0 End time: 157.0 Topics: overlap 
-Reco: 20200924_1213_0066_0064_01_01_toen.txt Start time: 293.0 End time: 366.0 Topics: overlap 
-Reco: 20200924_1220_0066_0064_02_01_toen.txt Start time: 123.0 End time: 126.0 Topics: overlap 
-Reco: 20200924_1220_0066_0064_02_01_toen.txt Start time: 328.0 End time: 332.0 Topics: overlap 
-Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 18.0 End time: 43.0 Topics: overlap 
-Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 43.0 End time: 60.0 Topics: overlap 
-Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 60.0 End time: 79.0 Topics: overlap 
-Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 79.0 End time: 100.0 Topics: overlap 
-Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 129.0 End time: 134.0 Topics: overlap 
-Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 147.0 End time: 161.0 Topics: overlap 
-Reco: 20200924_1519_0089_0090_02_01_toen.txt Start time: 42.0 End time: 50.0 Topics: overlap 
-Reco: 20200924_1519_0089_0090_02_01_toen.txt Start time: 86.0 End time: 109.0 Topics: overlap 
-Reco: 20200924_1521_0089_0090_03_01_toen.txt Start time: 76.0 End time: 103.0 Topics: overlap 
-Reco: 20200924_1525_0089_0090_04_01_toen.txt Start time: 123.0 End time: 131.0 Topics: overlap 
-Reco: 20200924_1525_0089_0090_04_01_toen.txt Start time: 197.0 End time: 209.0 Topics: overlap 
-Reco: 20200924_1525_0089_0090_04_01_toen.txt Start time: 251.0 End time: 284.0 Topics: overlap 
-Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 15.0 End time: 27.0 Topics: overlap 
-Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 223.0 End time: 238.0 Topics: overlap 
-Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 238.0 End time: 272.0 Topics: overlap 
-Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 284.0 End time: 319.0 Topics: overlap 
-Reco: 20200925_1013_0095_0091_02_01_toen.txt Start time: 31.0 End time: 300.0 Topics: overlap 
-Reco: 20200925_1020_0095_0091_03_01_toen.txt Start time: 295.0 End time: 463.0 Topics: overlap 
-Reco: 20200925_1152_0076_0075_04_01_toen.txt Start time: 495.0 End time: 525.0 Topics: overlap 
-Reco: 20200925_1525_0087_0088_01_01_toen.txt Start time: 76.0 End time: 105.0 Topics: overlap 
-Reco: 20200925_1535_0087_0088_02_01_toen.txt Start time: 474.0 End time: 504.0 Topics: overlap 
-Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 56.0 End time: 58.0 Topics: overlap 
-Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 190.0 End time: 198.0 Topics: overlap 
-Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 230.0 End time: 234.0 Topics: overlap 
-Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 294.0 End time: 297.0 Topics: overlap 
-Reco: 20200928_1111_0064_0066_04_01_toen.txt Start time: 125.0 End time: 140.0 Topics: overlap 
-Reco: 20200928_1111_0064_0066_04_01_toen.txt Start time: 217.0 End time: 236.0 Topics: overlap 
-Reco: 20200928_1111_0064_0066_04_01_toen.txt Start time: 316.0 End time: 320.0 Topics: overlap 
-Reco: 20200928_1145_0072_0071_03_01_toen.txt Start time: 21.0 End time: 22.0 Topics: overlap 
-Reco: 20200928_1150_0072_0071_04_01_toen.txt Start time: 91.0 End time: 93.0 Topics: overlap 
-Reco: 20200928_1150_0072_0071_04_01_toen.txt Start time: 107.0 End time: 109.0 Topics: overlap 
-Reco: 20200928_1159_0072_0071_05_01_toen.txt Start time: 15.0 End time: 16.0 Topics: overlap 
-Reco: 20200928_1210_0066_0061_03_01_toen.txt Start time: 470.0 End time: 519.0 Topics: overlap 
-Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 20.0 End time: 52.0 Topics: overlap 
-Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 127.0 End time: 145.0 Topics: overlap 
-Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 238.0 End time: 251.0 Topics: overlap 
-Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 251.0 End time: 322.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 85.0 End time: 102.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 123.0 End time: 159.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 191.0 End time: 211.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 246.0 End time: 270.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 273.0 End time: 369.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 377.0 End time: 396.0 Topics: overlap 
-Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 483.0 End time: 491.0 Topics: overlap 
-Reco: 20200928_1609_0090_0089_06_01_toen.txt Start time: 54.0 End time: 91.0 Topics: overlap 
-Reco: 20200928_1609_0090_0089_06_01_toen.txt Start time: 91.0 End time: 301.0 Topics: overlap 
-Reco: 20200928_1609_0090_0089_06_01_toen.txt Start time: 302.0 End time: 341.0 Topics: overlap 
-Reco: 20200929_1351_0093_0094_01_01_toen.txt Start time: 202.0 End time: 281.0 Topics: overlap 
-Reco: 20200929_2005_0086_0085_03_01_toen.txt Start time: 428.0 End time: 509.0 Topics: overlap 
-Reco: 20200929_2017_0086_0085_04_01_toen.txt Start time: 263.0 End time: 297.0 Topics: overlap 
-Reco: 20200930_1530_0088_0087_03_01_toen.txt Start time: 29.0 End time: 34.0 Topics: overlap 
-Reco: 20200930_1530_0088_0087_03_01_toen.txt Start time: 249.0 End time: 251.0 Topics: overlap 
-Reco: 20200930_1537_0088_0087_04_01_toen.txt Start time: 532.0 End time: 581.0 Topics: overlap 
-Reco: 20200930_1830_0078_0077_03_01_toen.txt Start time: 61.0 End time: 107.0 Topics: overlap 
-Reco: 20200930_1830_0078_0077_03_01_toen.txt Start time: 355.0 End time: 406.0 Topics: overlap 
-Reco: 20200930_2035_0021_0068_01_01_toen.txt Start time: 48.0 End time: 66.0 Topics: overlap 
-Reco: 20200930_2035_0021_0068_01_01_toen.txt Start time: 148.0 End time: 155.0 Topics: overlap 
-Reco: 20200930_2040_0021_0068_02_01_toen.txt Start time: 41.0 End time: 157.0 Topics: overlap 
-Reco: 20201001_0915_0096_0097_01_01_toen.txt Start time: 35.0 End time: 169.0 Topics: overlap 
-Reco: 20201001_0920_0096_0097_02_01_toen.txt Start time: 27.0 End time: 35.0 Topics: overlap 
-Reco: 20201001_0925_0096_0097_03_01_toen.txt Start time: 20.0 End time: 27.0 Topics: overlap 
-Reco: 20201001_0925_0096_0097_03_01_toen.txt Start time: 423.0 End time: 446.0 Topics: overlap 
-Reco: 20201001_1445_0094_0093_02_01_toen.txt Start time: 61.0 End time: 111.0 Topics: overlap 
-Reco: 20201001_1445_0094_0093_02_01_toen.txt Start time: 494.0 End time: 549.0 Topics: overlap 
-Reco: 20201001_1445_0094_0093_02_01_toen.txt Start time: 665.0 End time: 716.0 Topics: overlap 
-Reco: 20201006_1400_0097_0096_04_01_toen.txt Start time: 121.0 End time: 152.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 30.0 End time: 71.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 71.0 End time: 95.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 95.0 End time: 132.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 132.0 End time: 188.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 188.0 End time: 349.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 390.0 End time: 408.0 Topics: overlap 
-Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 408.0 End time: 434.0 Topics: overlap 
+Reco: 20200813_1326_0001_0002_02_01_toen.txt Start time: 359.0 End time: 360.0 Topics: {'technology(p)', 'work(p)', 'technology(s)', 'hello(p)', 'tv(p)'} 
+Reco: 20200813_1326_0001_0002_02_01_toen.txt Start time: 361.0 End time: 493.0 Topics: {'performance(p)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 33.0 End time: 57.0 Topics: {'hello(p)', 'meeting-fu(p)', 'transport(s)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 72.0 End time: 84.0 Topics: {'travel-fu(p)', 'covid-19(s)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 85.0 End time: 130.0 Topics: {'activities-fu(s)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 130.0 End time: 158.0 Topics: {'weather(s)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 159.0 End time: 177.0 Topics: {'activities-pa(s)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 180.0 End time: 210.0 Topics: {'activities-fu(s)'} 
+Reco: 20200813_1340_0001_0002_03_01_toen.txt Start time: 236.0 End time: 263.0 Topics: {'covid-19(s)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 39.0 End time: 92.0 Topics: {'society(s)', 'hello(p)', 'covid-19(p)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 92.0 End time: 125.0 Topics: {'work(s)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 125.0 End time: 152.0 Topics: {'society(s)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 152.0 End time: 211.0 Topics: {'science(s)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 211.0 End time: 230.0 Topics: {'politics(s)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 230.0 End time: 299.0 Topics: {'science(s)'} 
+Reco: 20200813_1434_0003_0004_02_01_toen.txt Start time: 299.0 End time: 340.0 Topics: {'health(s)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 11.0 End time: 13.0 Topics: {'crosstalk(s)', 'connection(p)', 'hello(p)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 93.0 End time: 122.0 Topics: {'school(p)', 'school(s)', 'language(p)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 122.0 End time: 131.0 Topics: {'mood(s)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 131.0 End time: 133.0 Topics: {'friends(s)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 133.0 End time: 141.0 Topics: {'travel-ge(s)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 148.0 End time: 240.0 Topics: {'school(s)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 243.0 End time: 301.0 Topics: {'school(s)', 'crosstalk(p)', 'language(p)'} 
+Reco: 20200813_1441_0003_0004_03_01_toen.txt Start time: 301.0 End time: 326.0 Topics: {'school(p)', 'covid-19(s)'} 
+Reco: 20200814_0909_0013_0015_01_01_toen.txt Start time: 291.0 End time: 311.0 Topics: {'weather(p)', 'nature(s)', 'activities-pa(p)', 'connection(s)', 'hello(s)'} 
+Reco: 20200814_0917_0013_0015_02_01_toen.txt Start time: 221.0 End time: 238.0 Topics: {'hobbies(p)', 'connection(p)', 'friends(s)'} 
+Reco: 20200814_1010_0007_0008_01_01_toen.txt Start time: 124.0 End time: 139.0 Topics: {'school(p)', 'connection(p)', 'work(s)', 'hello(p)'} 
+Reco: 20200814_1010_0007_0008_01_01_toen.txt Start time: 289.0 End time: 297.0 Topics: {'school(p)', 'work(p)', 'school(s)', 'friends(p)', 'language(p)'} 
+Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 109.0 End time: 154.0 Topics: {'travel-pa(p)', 'connection(p)', 'break(p)', 'hello(p)', 'food(s)'} 
+Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 215.0 End time: 303.0 Topics: {'food(p)', 'travel-pa(s)'} 
+Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 330.0 End time: 353.0 Topics: {'travel-pa(p)', 'language(s)'} 
+Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 366.0 End time: 398.0 Topics: {'entertainment(s)', 'activities-pa(p)'} 
+Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 417.0 End time: 430.0 Topics: {'activities-fu(s)', 'entertainment(p)'} 
+Reco: 20200814_1018_0007_0008_02_01_toen.txt Start time: 430.0 End time: 440.0 Topics: {'activities-pa(s)'} 
+Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 21.0 End time: 67.0 Topics: {'parenting(s)', 'connection(p)', 'hello(p)', 'activities-pa(p)'} 
+Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 81.0 End time: 167.0 Topics: {'parenting(p)', 'food(s)'} 
+Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 200.0 End time: 215.0 Topics: {'food(p)', 'health(s)'} 
+Reco: 20200814_1522_0005_0006_01_01_toen.txt Start time: 230.0 End time: 297.0 Topics: {'parenting(s)', 'health(p)'} 
+Reco: 20200814_1533_0005_0006_02_01_toen.txt Start time: 419.0 End time: 442.0 Topics: {'transport(p)', 'activities-pa(s)', 'covid-19(p)', 'food(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200814_1533_0005_0006_02_01_toen.txt Start time: 451.0 End time: 524.0 Topics: {'entertainment(s)', 'covid-19(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 178.0 End time: 196.0 Topics: {'construction(p)', 'finances(s)', 'unintelligible(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 231.0 End time: 273.0 Topics: {'travel-pa(p)', 'location(s)', 'covid-19(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 282.0 End time: 341.0 Topics: {'location(s)', 'mood(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 342.0 End time: 454.0 Topics: {'location(s)', 'addiction(s)', 'food(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 455.0 End time: 461.0 Topics: {'weather(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 482.0 End time: 493.0 Topics: {'location(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 495.0 End time: 512.0 Topics: {'technology(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 514.0 End time: 519.0 Topics: {'mood(s)'} 
+Reco: 20200814_1723_0013_0014_01_01_toen.txt Start time: 519.0 End time: 522.0 Topics: {'buying(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 24.0 End time: 25.0 Topics: {'technology(s)', 'hello(p)', 'entertainment(p)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 25.0 End time: 27.0 Topics: {'mood(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 126.0 End time: 136.0 Topics: {'crosstalk(p)', 'personal(s)', 'entertainment(p)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 207.0 End time: 237.0 Topics: {'music(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 238.0 End time: 268.0 Topics: {'weather(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 269.0 End time: 299.0 Topics: {'food(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 300.0 End time: 362.0 Topics: {'violence(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 365.0 End time: 453.0 Topics: {'clothing(s)'} 
+Reco: 20200814_1734_0013_0014_02_01_toen.txt Start time: 462.0 End time: 470.0 Topics: {'music(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 55.0 End time: 57.0 Topics: {'school(p)', 'health(s)', 'hello(p)', 'activities-pa(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 60.0 End time: 62.0 Topics: {'weather(s)', 'crosstalk(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 64.0 End time: 65.0 Topics: {'weather(p)', 'health(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 81.0 End time: 88.0 Topics: {'fitness(s)', 'meeting-pa(p)', 'travel-pa(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 98.0 End time: 101.0 Topics: {'location(s)', 'crosstalk(p)', 'location(p)', 'mood(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 105.0 End time: 115.0 Topics: {'meeting-pa(s)', 'location(p)', 'entertainment(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 156.0 End time: 159.0 Topics: {'hobbies(s)', 'meeting-pa(p)', 'unintelligible(p)', 'mood(p)', 'connection(p)', 'crosstalk(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 182.0 End time: 196.0 Topics: {'location(s)', 'sports(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 198.0 End time: 205.0 Topics: {'mood(s)', 'sports(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 226.0 End time: 232.0 Topics: {'technology(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 287.0 End time: 288.0 Topics: {'connection(p)', 'mood(s)', 'sports(p)', 'health(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 318.0 End time: 320.0 Topics: {'meeting-ge(p)', 'sports(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 320.0 End time: 321.0 Topics: {'meeting-fu(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 377.0 End time: 391.0 Topics: {'weather(p)', 'construction(p)', 'meeting-fu(p)', 'unintelligible(p)', 'entertainment(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 407.0 End time: 443.0 Topics: {'covid-19(s)', 'entertainment(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 453.0 End time: 457.0 Topics: {'covid-19(p)', 'correspondence(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 470.0 End time: 478.0 Topics: {'economy(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 483.0 End time: 485.0 Topics: {'economy(p)', 'covid-19(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 490.0 End time: 494.0 Topics: {'covid-19(p)', 'economy(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 506.0 End time: 529.0 Topics: {'covid-19(s)', 'friends(s)', 'work(p)', 'meeting-pa(s)', 'crosstalk(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 529.0 End time: 538.0 Topics: {'friends(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 540.0 End time: 577.0 Topics: {'location(s)', 'travel-ge(s)', 'politics(s)', 'covid-19(p)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 605.0 End time: 609.0 Topics: {'activities-pa(p)', 'personal(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 621.0 End time: 623.0 Topics: {'meeting-pa(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 624.0 End time: 625.0 Topics: {'personal(s)'} 
+Reco: 20200817_0900_0002_0001_04_01_toen.txt Start time: 638.0 End time: 642.0 Topics: {'location(s)', 'personal(p)'} 
+Reco: 20200817_0919_0002_0001_05_01_toen.txt Start time: 218.0 End time: 239.0 Topics: {'weather(p)', 'mood(p)', 'language(s)', 'hello(p)', 'tv(p)'} 
+Reco: 20200817_1100_0004_0003_04_01_toen.txt Start time: 86.0 End time: 133.0 Topics: {'holiday(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200817_1100_0004_0003_04_01_toen.txt Start time: 250.0 End time: 282.0 Topics: {'travel-pa(p)', 'weather(p)', 'mood(s)', 'friends(p)'} 
+Reco: 20200817_1107_0004_0003_05_01_toen.txt Start time: 106.0 End time: 128.0 Topics: {'hobbies(p)', 'school(s)', 'hello(p)', 'covid-19(p)'} 
+Reco: 20200817_1107_0004_0003_05_01_toen.txt Start time: 129.0 End time: 261.0 Topics: {'school(s)', 'work(s)'} 
+Reco: 20200817_1107_0004_0003_05_01_toen.txt Start time: 293.0 End time: 335.0 Topics: {'real-estate(s)', 'work(p)'} 
+Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 35.0 End time: 61.0 Topics: {'economy(p)', 'mood(p)', 'break(p)', 'work(s)', 'hello(p)'} 
+Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 61.0 End time: 72.0 Topics: {'real-estate(s)'} 
+Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 72.0 End time: 176.0 Topics: {'food(s)', 'entertainment(s)', 'work(s)', 'covid-19(s)'} 
+Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 193.0 End time: 240.0 Topics: {'covid-19(s)', 'finances(p)', 'connection(p)', 'work(s)', 'economy(s)'} 
+Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 248.0 End time: 250.0 Topics: {'work(p)', 'mood(s)'} 
+Reco: 20200817_1114_0004_0003_06_01_toen.txt Start time: 272.0 End time: 276.0 Topics: {'hobbies(p)', 'health(s)', 'mood(p)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 35.0 End time: 37.0 Topics: {'weather(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 89.0 End time: 96.0 Topics: {'meeting-fu(s)', 'transport(p)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 141.0 End time: 159.0 Topics: {'work(p)', 'weather(p)', 'covid-19(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 171.0 End time: 202.0 Topics: {'weather(s)', 'correspondence(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 251.0 End time: 257.0 Topics: {'food(p)', 'finances(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 331.0 End time: 337.0 Topics: {'work(s)', 'meeting-fu(p)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 345.0 End time: 355.0 Topics: {'work(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 355.0 End time: 367.0 Topics: {'weather(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 367.0 End time: 370.0 Topics: {'sports(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 376.0 End time: 386.0 Topics: {'work(s)'} 
+Reco: 20200817_1645_0022_0023_01_01_toen.txt Start time: 411.0 End time: 415.0 Topics: {'goodbye(p)', 'work(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 49.0 End time: 71.0 Topics: {'hello(p)', 'meeting-fu(p)', 'sports(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 95.0 End time: 102.0 Topics: {'sports(p)', 'meeting-pa(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 138.0 End time: 146.0 Topics: {'weather(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 227.0 End time: 239.0 Topics: {'meeting-pa(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 272.0 End time: 281.0 Topics: {'buying(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 348.0 End time: 351.0 Topics: {'language(s)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 528.0 End time: 545.0 Topics: {'goodbye(p)', 'activities-fu(s)', 'activities-fu(p)'} 
+Reco: 20200817_1654_0022_0023_02_01_toen.txt Start time: 548.0 End time: 566.0 Topics: {'food(s)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 148.0 End time: 152.0 Topics: {'school(p)', 'health(s)', 'hello(p)', 'mood(p)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 170.0 End time: 172.0 Topics: {'school(p)', 'health(s)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 250.0 End time: 262.0 Topics: {'addiction(s)', 'mood(p)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 303.0 End time: 310.0 Topics: {'school(p)', 'buying(s)', 'life(p)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 321.0 End time: 327.0 Topics: {'mood(s)', 'life(p)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 342.0 End time: 376.0 Topics: {'school(s)', 'marriage(p)'} 
+Reco: 20200817_1732_0018_0019_01_01_toen.txt Start time: 397.0 End time: 403.0 Topics: {'school(p)', 'marriage(s)'} 
+Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 215.0 End time: 244.0 Topics: {'food(p)', 'life(s)', 'hello(p)', 'meeting-pa(p)'} 
+Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 293.0 End time: 295.0 Topics: {'weather(p)', 'mood(s)', 'life(p)'} 
+Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 317.0 End time: 339.0 Topics: {'meeting-fu(p)', 'food(s)'} 
+Reco: 20200817_1742_0018_0019_02_01_toen.txt Start time: 364.0 End time: 392.0 Topics: {'holiday(s)', 'work(p)'} 
+Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 18.0 End time: 20.0 Topics: {'work(s)', 'hello(p)'} 
+Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 20.0 End time: 26.0 Topics: {'entertainment(p)'} 
+Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 255.0 End time: 267.0 Topics: {'personal(s)'} 
+Reco: 20200818_1145_0008_0007_03_01_toen.txt Start time: 313.0 End time: 320.0 Topics: {'goodbye(p)', 'activities-ge(s)'} 
+Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 36.0 End time: 47.0 Topics: {'connection(p)', 'work(s)', 'hello(p)', 'meeting-fu(p)'} 
+Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 50.0 End time: 80.0 Topics: {'meeting-fu(s)', 'entertainment(p)'} 
+Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 111.0 End time: 162.0 Topics: {'location(p)', 'food(s)'} 
+Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 256.0 End time: 261.0 Topics: {'food(p)', 'meeting-fu(s)', 'entertainment(p)'} 
+Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 282.0 End time: 292.0 Topics: {'weather(s)'} 
+Reco: 20200818_1152_0008_0007_04_01_toen.txt Start time: 327.0 End time: 346.0 Topics: {'travel-fu(s)'} 
+Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 164.0 End time: 177.0 Topics: {'food(s)', 'work(p)', 'hello(p)', 'entertainment(p)'} 
+Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 253.0 End time: 285.0 Topics: {'food(p)', 'work(s)'} 
+Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 326.0 End time: 386.0 Topics: {'work(p)', 'food(s)'} 
+Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 472.0 End time: 487.0 Topics: {'food(s)', 'personal(p)', 'meeting-pa(p)', 'health(p)'} 
+Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 488.0 End time: 499.0 Topics: {'health(s)', 'mood(p)'} 
+Reco: 20200818_1201_0008_0007_05_01_toen.txt Start time: 514.0 End time: 517.0 Topics: {'goodbye(p)', 'work(p)', 'work(s)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 63.0 End time: 72.0 Topics: {'transport(s)', 'connection(p)', 'hello(p)', 'health(p)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 166.0 End time: 187.0 Topics: {'animals(s)', 'activities-ge(p)', 'animals(p)', 'entertainment(p)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 223.0 End time: 240.0 Topics: {'break(p)', 'animals(s)', 'entertainment(p)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 264.0 End time: 272.0 Topics: {'parenting(p)', 'animals(s)', 'life(p)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 329.0 End time: 351.0 Topics: {'food(s)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 380.0 End time: 402.0 Topics: {'entertainment(s)', 'animals(p)', 'entertainment(p)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 402.0 End time: 432.0 Topics: {'animals(s)', 'entertainment(p)'} 
+Reco: 20200818_1515_0006_0005_03_01_toen.txt Start time: 497.0 End time: 501.0 Topics: {'goodbye(p)', 'parenting(s)', 'animals(p)', 'entertainment(p)'} 
+Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 84.0 End time: 96.0 Topics: {'connection(p)', 'hello(p)', 'transport(p)', 'covid-19(s)'} 
+Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 102.0 End time: 125.0 Topics: {'directions(p)', 'transport(s)'} 
+Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 315.0 End time: 317.0 Topics: {'buying(s)', 'transport(p)'} 
+Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 384.0 End time: 405.0 Topics: {'parenting(p)', 'transport(s)'} 
+Reco: 20200818_1525_0006_0005_04_01_toen.txt Start time: 447.0 End time: 552.0 Topics: {'real-estate(s)', 'transport(p)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 22.0 End time: 30.0 Topics: {'life(p)', 'travel-ge(p)', 'mood(s)', 'connection(p)', 'break(p)', 'work(s)', 'hello(p)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 70.0 End time: 73.0 Topics: {'break(p)', 'activities-ge(p)', 'sports(s)', 'meeting-pa(p)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 81.0 End time: 94.0 Topics: {'sports(s)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 101.0 End time: 160.0 Topics: {'location(s)', 'food(s)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 175.0 End time: 204.0 Topics: {'location(p)', 'meeting-pa(s)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 266.0 End time: 363.0 Topics: {'location(s)', 'travel-ge(s)', 'meeting-pa(p)', 'nature(s)', 'weather(s)', 'meeting-pa(s)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 369.0 End time: 408.0 Topics: {'weather(s)', 'meeting-pa(p)'} 
+Reco: 20200818_1715_0014_0013_03_01_toen.txt Start time: 450.0 End time: 453.0 Topics: {'nature(s)', 'travel-ge(p)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 82.0 End time: 99.0 Topics: {'sports(p)', 'finances(s)', 'connection(p)', 'break(p)', 'hello(p)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 165.0 End time: 192.0 Topics: {'covid-19(s)', 'health(p)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 193.0 End time: 206.0 Topics: {'work(s)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 210.0 End time: 216.0 Topics: {'work(s)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 316.0 End time: 348.0 Topics: {'hobbies(p)', 'work(p)', 'buying(s)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 367.0 End time: 373.0 Topics: {'buying(s)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 376.0 End time: 379.0 Topics: {'health(s)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 433.0 End time: 448.0 Topics: {'hobbies(p)', 'covid-19(p)', 'buying(p)', 'buying(s)'} 
+Reco: 20200818_1723_0014_0013_04_01_toen.txt Start time: 461.0 End time: 473.0 Topics: {'buying(p)', 'sports(s)'} 
+Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 48.0 End time: 122.0 Topics: {'connection(p)', 'activities-pa(p)', 'activities-pa(s)', 'entertainment(p)'} 
+Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 122.0 End time: 133.0 Topics: {'buying(p)'} 
+Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 133.0 End time: 142.0 Topics: {'travel-pa(p)'} 
+Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 339.0 End time: 409.0 Topics: {'personal(p)', 'location(p)', 'sports(p)', 'covid-19(s)', 'transport(p)', 'activities-pa(p)', 'transport(s)'} 
+Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 413.0 End time: 429.0 Topics: {'mood(s)'} 
+Reco: 20200819_1616_0009_0010_01_01_toen.txt Start time: 438.0 End time: 459.0 Topics: {'transport(s)'} 
+Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 174.0 End time: 185.0 Topics: {'hobbies(p)', 'nature(s)', 'food(p)', 'break(p)', 'hello(p)'} 
+Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 266.0 End time: 350.0 Topics: {'technology(s)', 'transport(p)'} 
+Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 389.0 End time: 442.0 Topics: {'hobbies(p)', 'nature(s)'} 
+Reco: 20200819_1627_0009_0010_02_01_toen.txt Start time: 457.0 End time: 502.0 Topics: {'hobbies(p)', 'nature(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 51.0 End time: 60.0 Topics: {'meeting-pa(p)', 'meeting-fu(p)', 'connection(s)', 'break(p)', 'hello(p)', 'food(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 112.0 End time: 114.0 Topics: {'travel-pa(p)', 'buying(s)', 'travel-ge(p)', 'real-estate(p)', 'travel-fu(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 118.0 End time: 126.0 Topics: {'travel-pa(p)', 'buying(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 143.0 End time: 145.0 Topics: {'mood(s)', 'location(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 149.0 End time: 161.0 Topics: {'travel-pa(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 201.0 End time: 211.0 Topics: {'mood(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 212.0 End time: 213.0 Topics: {'school(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 213.0 End time: 223.0 Topics: {'buying(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 226.0 End time: 242.0 Topics: {'nature(s)', 'location(p)', 'sports(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 243.0 End time: 272.0 Topics: {'location(s)', 'nature(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 317.0 End time: 340.0 Topics: {'hobbies(s)', 'sports(s)', 'travel-pa(p)', 'nature(s)', 'nature(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 377.0 End time: 421.0 Topics: {'hobbies(s)', 'nature(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 428.0 End time: 466.0 Topics: {'nature(s)', 'location(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 490.0 End time: 495.0 Topics: {'buying(s)', 'travel-fu(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 497.0 End time: 500.0 Topics: {'buying(s)', 'economy(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 523.0 End time: 529.0 Topics: {'nature(p)', 'travel-pa(s)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 537.0 End time: 551.0 Topics: {'nature(s)', 'travel-fu(p)'} 
+Reco: 20200820_0909_0027_0028_01_01_toen.txt Start time: 602.0 End time: 617.0 Topics: {'goodbye(p)', 'work(s)'} 
+Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 46.0 End time: 53.0 Topics: {'work(p)', 'hello(p)', 'meeting-fu(p)', 'food(s)'} 
+Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 72.0 End time: 107.0 Topics: {'buying(s)', 'entertainment(p)'} 
+Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 245.0 End time: 277.0 Topics: {'music(s)'} 
+Reco: 20200820_0922_0027_0028_02_01_toen.txt Start time: 329.0 End time: 339.0 Topics: {'covid-19(s)'} 
+Reco: 20200820_1016_0029_0020_01_01_toen.txt Start time: 35.0 End time: 38.0 Topics: {'work(p)', 'hello(p)', 'correspondence(s)', 'mood(p)'} 
+Reco: 20200820_1016_0029_0020_01_01_toen.txt Start time: 76.0 End time: 153.0 Topics: {'correspondence(p)', 'work(s)'} 
+Reco: 20200820_1024_0029_0020_02_01_toen.txt Start time: 22.0 End time: 30.0 Topics: {'tv(s)', 'hello(p)', 'parenting(p)'} 
+Reco: 20200820_1024_0029_0020_02_01_toen.txt Start time: 42.0 End time: 49.0 Topics: {'tv(s)'} 
+Reco: 20200820_1024_0029_0020_02_01_toen.txt Start time: 56.0 End time: 373.0 Topics: {'work(s)', 'meeting-pa(p)', 'correspondence(s)', 'mood(s)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 34.0 End time: 41.0 Topics: {'travel-pa(p)', 'connection(p)', 'hello(p)', 'nature(s)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 67.0 End time: 88.0 Topics: {'transport(s)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 231.0 End time: 238.0 Topics: {'life(p)', 'mood(s)', 'mood(p)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 299.0 End time: 306.0 Topics: {'travel-pa(p)', 'animals(p)', 'transport(s)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 352.0 End time: 359.0 Topics: {'hobbies(s)', 'travel-fu(p)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 381.0 End time: 398.0 Topics: {'hobbies(s)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 509.0 End time: 516.0 Topics: {'goodbye(p)', 'meeting-fu(s)', 'meeting-fu(p)', 'parenting(s)', 'parenting(p)'} 
+Reco: 20200820_1033_0029_0020_03_01_toen.txt Start time: 516.0 End time: 534.0 Topics: {'parenting(p)', 'transport(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 30.0 End time: 38.0 Topics: {'break(p)', 'work(s)', 'hello(p)', 'mood(p)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 45.0 End time: 48.0 Topics: {'school(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 81.0 End time: 99.0 Topics: {'school(p)', 'break(p)', 'language(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 156.0 End time: 160.0 Topics: {'school(p)', 'science(s)', 'crosstalk(p)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 163.0 End time: 181.0 Topics: {'school(p)', 'science(s)', 'crosstalk(p)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 183.0 End time: 195.0 Topics: {'mood(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 208.0 End time: 214.0 Topics: {'science(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 215.0 End time: 232.0 Topics: {'finances(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 236.0 End time: 244.0 Topics: {'finances(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 244.0 End time: 246.0 Topics: {'personal(s)'} 
+Reco: 20200820_1610_0004_0026_01_01_toen.txt Start time: 252.0 End time: 289.0 Topics: {'mood(s)', 'science(s)'} 
+Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 76.0 End time: 191.0 Topics: {'work(p)', 'mood(s)', 'hello(p)', 'school(s)'} 
+Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 191.0 End time: 209.0 Topics: {'mood(s)', 'personal(s)'} 
+Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 223.0 End time: 271.0 Topics: {'school(s)', 'personal(s)'} 
+Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 308.0 End time: 322.0 Topics: {'technology(s)'} 
+Reco: 20200821_0907_0018_0013_01_01_toen.txt Start time: 413.0 End time: 424.0 Topics: {'personal(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 30.0 End time: 76.0 Topics: {'technology(p)', 'music(s)', 'hello(p)', 'tv(p)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 129.0 End time: 138.0 Topics: {'holiday(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 141.0 End time: 152.0 Topics: {'mood(s)', 'holiday(p)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 153.0 End time: 164.0 Topics: {'food(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 165.0 End time: 204.0 Topics: {'food(p)', 'language(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 207.0 End time: 242.0 Topics: {'meeting-pa(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 281.0 End time: 285.0 Topics: {'meeting-fu(p)', 'food(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 295.0 End time: 303.0 Topics: {'activities-pa(p)', 'correspondence(s)', 'life(p)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 303.0 End time: 306.0 Topics: {'meeting-fu(p)', 'food(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 312.0 End time: 321.0 Topics: {'work(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 328.0 End time: 340.0 Topics: {'work(p)', 'food(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 344.0 End time: 348.0 Topics: {'language(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 399.0 End time: 414.0 Topics: {'school(s)', 'language(p)', 'travel-pa(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 415.0 End time: 421.0 Topics: {'life(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 453.0 End time: 506.0 Topics: {'health(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 511.0 End time: 513.0 Topics: {'goodbye(p)', 'break(p)', 'work(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 513.0 End time: 517.0 Topics: {'food(s)'} 
+Reco: 20200821_0917_0018_0013_02_01_toen.txt Start time: 518.0 End time: 522.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 59.0 End time: 188.0 Topics: {'covid-19(s)', 'government(s)', 'school(p)', 'work(p)', 'hello(p)'} 
+Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 208.0 End time: 370.0 Topics: {'art(s)', 'hobbies(p)', 'school(s)', 'life(s)', 'transport(s)'} 
+Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 373.0 End time: 379.0 Topics: {'hobbies(s)', 'sports(p)'} 
+Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 385.0 End time: 390.0 Topics: {'meeting-pa(p)', 'meeting-fu(p)', 'friends(s)'} 
+Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 394.0 End time: 399.0 Topics: {'meeting-fu(p)', 'addiction(s)'} 
+Reco: 20200821_1111_0003_0024_01_01_toen.txt Start time: 412.0 End time: 421.0 Topics: {'meeting-fu(s)', 'real-estate(p)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 29.0 End time: 46.0 Topics: {'hobbies(p)', 'connection(p)', 'technology(s)', 'science(s)', 'hello(p)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 49.0 End time: 191.0 Topics: {'music(s)', 'mood(s)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 207.0 End time: 210.0 Topics: {'work(s)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 423.0 End time: 426.0 Topics: {'mood(s)', 'transport(p)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 584.0 End time: 591.0 Topics: {'meeting-fu(p)', 'transport(s)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 594.0 End time: 596.0 Topics: {'addiction(s)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 601.0 End time: 602.0 Topics: {'goodbye(p)'} 
+Reco: 20200821_1121_0003_0024_01_02_toen.txt Start time: 603.0 End time: 618.0 Topics: {'meeting-fu(s)', 'addiction(s)', 'food(s)'} 
+Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 17.0 End time: 31.0 Topics: {'work(p)', 'mood(s)', 'hello(p)'} 
+Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 47.0 End time: 48.0 Topics: {'mood(p)'} 
+Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 236.0 End time: 249.0 Topics: {'work(p)', 'art(p)', 'books(p)', 'school(s)'} 
+Reco: 20200821_1151_0019_0018_03_01_toen.txt Start time: 282.0 End time: 300.0 Topics: {'work(s)', 'music(p)'} 
+Reco: 20200821_1202_0019_0018_04_01_toen.txt Start time: 90.0 End time: 149.0 Topics: {'hobbies(s)', 'hello(p)', 'meeting-fu(p)', 'mood(p)'} 
+Reco: 20200824_0848_0010_0009_03_01_toen.txt Start time: 21.0 End time: 26.0 Topics: {'weather(s)', 'hello(p)'} 
+Reco: 20200824_0905_0010_0009_04_02_toen.txt Start time: 36.0 End time: 44.0 Topics: {'language(s)', 'connection(p)', 'hello(p)', 'life(p)'} 
+Reco: 20200824_0905_0010_0009_04_02_toen.txt Start time: 74.0 End time: 80.0 Topics: {'language(s)', 'location(p)'} 
+Reco: 20200824_0905_0010_0009_04_02_toen.txt Start time: 91.0 End time: 101.0 Topics: {'entertainment(s)'} 
+Reco: 20200824_1112_0023_0033_01_01_toen.txt Start time: 191.0 End time: 201.0 Topics: {'school(p)', 'hello(p)', 'language(s)'} 
+Reco: 20200824_1112_0023_0033_01_01_toen.txt Start time: 262.0 End time: 280.0 Topics: {'food(s)'} 
+Reco: 20200824_1112_0023_0033_01_01_toen.txt Start time: 457.0 End time: 463.0 Topics: {'break(p)', 'sports(p)', 'food(s)'} 
+Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 11.0 End time: 16.0 Topics: {'hello(p)', 'food(s)'} 
+Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 16.0 End time: 21.0 Topics: {'hobbies(p)', 'friends(s)'} 
+Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 293.0 End time: 345.0 Topics: {'school(p)', 'sports(p)', 'friends(s)'} 
+Reco: 20200824_1121_0023_0033_02_01_toen.txt Start time: 345.0 End time: 370.0 Topics: {'covid-19(s)'} 
+Reco: 20200824_1420_0030_0013_01_01_toen.txt Start time: 11.0 End time: 14.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200824_1420_0030_0013_01_01_toen.txt Start time: 375.0 End time: 420.0 Topics: {'personal(p)', 'meeting-pa(p)', 'mood(p)', 'work(p)', 'weather(s)', 'travel-fu(p)'} 
+Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 28.0 End time: 31.0 Topics: {'location(s)', 'hello(p)', 'life(p)'} 
+Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 31.0 End time: 159.0 Topics: {'travel-fu(p)'} 
+Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 159.0 End time: 285.0 Topics: {'food(s)'} 
+Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 438.0 End time: 454.0 Topics: {'friends(s)'} 
+Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 459.0 End time: 483.0 Topics: {'travel-pa(s)'} 
+Reco: 20200824_1429_0030_0013_01_02_toen.txt Start time: 483.0 End time: 495.0 Topics: {'weather(s)'} 
+Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 52.0 End time: 120.0 Topics: {'technology(s)', 'hello(p)', 'activities-pa(p)'} 
+Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 120.0 End time: 125.0 Topics: {'meeting-pa(s)'} 
+Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 152.0 End time: 155.0 Topics: {'food(p)', 'activities-pa(p)', 'law(s)'} 
+Reco: 20200824_1703_0023_0022_03_01_toen.txt Start time: 305.0 End time: 331.0 Topics: {'technology(s)', 'art(p)'} 
+Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 33.0 End time: 34.0 Topics: {'meeting-ge(p)', 'weather(s)', 'hello(p)'} 
+Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 46.0 End time: 56.0 Topics: {'hobbies(p)', 'weather(s)'} 
+Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 111.0 End time: 119.0 Topics: {'health(s)'} 
+Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 244.0 End time: 256.0 Topics: {'weather(s)'} 
+Reco: 20200824_1715_0023_0022_04_01_toen.txt Start time: 413.0 End time: 440.0 Topics: {'goodbye(p)', 'weather(p)', 'meeting-fu(s)', 'violence(p)', 'tv(p)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 38.0 End time: 57.0 Topics: {'hobbies(s)', 'hello(p)', 'meeting-pa(p)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 64.0 End time: 74.0 Topics: {'hobbies(p)', 'technology(s)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 103.0 End time: 112.0 Topics: {'language(s)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 113.0 End time: 136.0 Topics: {'friends(s)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 136.0 End time: 139.0 Topics: {'meeting-pa(p)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 186.0 End time: 189.0 Topics: {'personal(s)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 231.0 End time: 239.0 Topics: {'hobbies(s)', 'meeting-pa(p)', 'friends(p)', 'meeting-fu(p)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 277.0 End time: 292.0 Topics: {'personal(p)', 'mood(s)', 'holiday(p)', 'meeting-pa(s)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 297.0 End time: 301.0 Topics: {'meeting-fu(p)', 'covid-19(s)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 304.0 End time: 307.0 Topics: {'real-estate(s)', 'personal(p)'} 
+Reco: 20200825_0910_0011_0012_01_01_toen.txt Start time: 312.0 End time: 329.0 Topics: {'meeting-pa(s)'} 
+Reco: 20200825_0918_0011_0012_02_01_toen.txt Start time: 207.0 End time: 356.0 Topics: {'travel-pa(p)', 'location(s)', 'hello(p)'} 
+Reco: 20200825_0918_0011_0012_02_01_toen.txt Start time: 363.0 End time: 431.0 Topics: {'covid-19(s)'} 
+Reco: 20200825_0928_0011_0012_03_01_toen.txt Start time: 37.0 End time: 55.0 Topics: {'marriage(s)', 'hello(p)', 'activities-fu(p)'} 
+Reco: 20200825_0928_0011_0012_03_01_toen.txt Start time: 86.0 End time: 121.0 Topics: {'location(s)', 'marriage(p)'} 
+Reco: 20200825_1100_0020_0029_04_01_toen.txt Start time: 165.0 End time: 265.0 Topics: {'meeting-pa(p)', 'travel-pa(p)', 'mood(p)', 'hello(p)', 'food(s)'} 
+Reco: 20200825_1100_0020_0029_04_01_toen.txt Start time: 334.0 End time: 385.0 Topics: {'school(s)', 'covid-19(p)'} 
+Reco: 20200825_1100_0020_0029_04_01_toen.txt Start time: 386.0 End time: 459.0 Topics: {'work(s)', 'government(s)', 'mood(s)'} 
+Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 39.0 End time: 101.0 Topics: {'work(p)', 'mood(s)', 'hello(p)', 'correspondence(s)'} 
+Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 103.0 End time: 111.0 Topics: {'mood(s)'} 
+Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 127.0 End time: 134.0 Topics: {'technology(s)'} 
+Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 242.0 End time: 248.0 Topics: {'technology(s)'} 
+Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 583.0 End time: 586.0 Topics: {'goodbye(p)', 'health(s)'} 
+Reco: 20200825_1110_0020_0029_04_02_toen.txt Start time: 588.0 End time: 592.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 105.0 End time: 113.0 Topics: {'meeting-pa(s)', 'hello(p)', 'tv(p)'} 
+Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 129.0 End time: 141.0 Topics: {'entertainment(s)', 'meeting-fu(p)'} 
+Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 143.0 End time: 165.0 Topics: {'entertainment(s)', 'crosstalk(p)', 'meeting-fu(p)', 'tv(p)'} 
+Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 187.0 End time: 188.0 Topics: {'break(p)', 'mood(p)'} 
+Reco: 20200825_1425_0032_0038_01_01_toen.txt Start time: 257.0 End time: 258.0 Topics: {'weather(s)', 'meeting-fu(p)', 'crosstalk(p)', 'animals(p)'} 
+Reco: 20200825_1440_0032_0038_02_02_toen.txt Start time: 17.0 End time: 23.0 Topics: {'hello(p)', 'friends(s)'} 
+Reco: 20200825_1440_0032_0038_02_02_toen.txt Start time: 392.0 End time: 507.0 Topics: {'travel-ge(p)', 'animals(p)', 'friends(s)'} 
+Reco: 20200825_1615_0026_0004_04_01_toen.txt Start time: 83.0 End time: 160.0 Topics: {'school(p)', 'hello(p)', 'language(s)', 'mood(p)'} 
+Reco: 20200825_1615_0026_0004_04_01_toen.txt Start time: 242.0 End time: 257.0 Topics: {'travel-fu(s)'} 
+Reco: 20200825_1615_0026_0004_04_01_toen.txt Start time: 257.0 End time: 273.0 Topics: {'work(s)'} 
+Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 156.0 End time: 163.0 Topics: {'hello(p)', 'home(p)', 'food(s)'} 
+Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 164.0 End time: 280.0 Topics: {'hygiene(s)'} 
+Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 280.0 End time: 308.0 Topics: {'directions(s)'} 
+Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 308.0 End time: 358.0 Topics: {'food(s)'} 
+Reco: 20200825_1622_0026_0004_05_01_toen.txt Start time: 434.0 End time: 460.0 Topics: {'finances(s)'} 
+Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 208.0 End time: 250.0 Topics: {'weather(p)', 'entertainment(p)', 'finances(s)', 'animals(p)', 'hello(p)'} 
+Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 293.0 End time: 294.0 Topics: {'connection(p)', 'entertainment(p)'} 
+Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 338.0 End time: 371.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 376.0 End time: 404.0 Topics: {'personal(s)', 'finances(p)'} 
+Reco: 20200826_0900_0028_0027_03_01_toen.txt Start time: 407.0 End time: 414.0 Topics: {'meeting-fu(s)', 'entertainment(p)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 253.0 End time: 270.0 Topics: {'weather(p)', 'meeting-fu(p)', 'health(p)', 'directions(p)', 'romance(p)', 'food(p)', 'connection(p)', 'hello(p)', 'food(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 270.0 End time: 337.0 Topics: {'finances(p)', 'food(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 375.0 End time: 408.0 Topics: {'food(p)', 'music(p)', 'addiction(p)', 'food(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 443.0 End time: 455.0 Topics: {'food(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 464.0 End time: 471.0 Topics: {'food(p)', 'addiction(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 536.0 End time: 540.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 564.0 End time: 571.0 Topics: {'marriage(p)', 'food(s)'} 
+Reco: 20200826_0912_0028_0027_04_01_toen.txt Start time: 590.0 End time: 598.0 Topics: {'goodbye(p)', 'break(p)', 'meeting-fu(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 127.0 End time: 137.0 Topics: {'books(p)', 'health(s)', 'hello(p)', 'mood(p)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 138.0 End time: 148.0 Topics: {'books(s)', 'mood(p)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 196.0 End time: 206.0 Topics: {'books(p)', 'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 237.0 End time: 249.0 Topics: {'language(p)', 'books(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 254.0 End time: 259.0 Topics: {'books(p)', 'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 269.0 End time: 275.0 Topics: {'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 275.0 End time: 280.0 Topics: {'school(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 311.0 End time: 315.0 Topics: {'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 359.0 End time: 361.0 Topics: {'buying(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 376.0 End time: 408.0 Topics: {'books(s)', 'mood(p)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 442.0 End time: 444.0 Topics: {'books(p)', 'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 468.0 End time: 515.0 Topics: {'technology(p)', 'books(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 550.0 End time: 561.0 Topics: {'books(p)', 'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 565.0 End time: 577.0 Topics: {'books(s)', 'mood(p)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 599.0 End time: 611.0 Topics: {'books(p)', 'books(s)', 'mood(p)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 617.0 End time: 623.0 Topics: {'books(p)', 'mood(s)'} 
+Reco: 20200826_1013_0011_0017_01_01_toen.txt Start time: 623.0 End time: 646.0 Topics: {'books(s)', 'mood(p)'} 
+Reco: 20200826_1025_0011_0017_01_02_toen.txt Start time: 26.0 End time: 105.0 Topics: {'books(p)', 'hello(p)', 'school(s)'} 
+Reco: 20200826_1025_0011_0017_01_02_toen.txt Start time: 111.0 End time: 126.0 Topics: {'school(p)', 'language(s)'} 
+Reco: 20200826_1025_0011_0017_01_02_toen.txt Start time: 196.0 End time: 234.0 Topics: {'school(s)', 'books(p)'} 
+Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 64.0 End time: 75.0 Topics: {'animals(p)', 'connection(p)', 'break(p)', 'bg-spkr(s)', 'hello(p)'} 
+Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 89.0 End time: 91.0 Topics: {'bg-spkr(s)'} 
+Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 111.0 End time: 115.0 Topics: {'bg-spkr(s)'} 
+Reco: 20200826_1145_0015_0013_04_01_toen.txt Start time: 124.0 End time: 129.0 Topics: {'bg-spkr(s)'} 
+Reco: 20200826_1201_0015_0013_06_01_toen.txt Start time: 15.0 End time: 42.0 Topics: {'correspondence(p)', 'connection(p)', 'mood(s)'} 
+Reco: 20200826_1201_0015_0013_06_01_toen.txt Start time: 125.0 End time: 136.0 Topics: {'buying(s)'} 
+Reco: 20200826_1201_0015_0013_06_01_toen.txt Start time: 170.0 End time: 209.0 Topics: {'buying(p)', 'correspondence(s)'} 
+Reco: 20200826_1436_0036_0037_01_01_toen.txt Start time: 315.0 End time: 334.0 Topics: {'weather(p)', 'buying(p)', 'life(p)', 'hobbies(p)', 'meeting-fu(p)', 'entertainment(p)', 'activities-pa(p)', 'work(p)', 'friends(p)', 'connection(p)', 'work(s)', 'hello(p)'} 
+Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 59.0 End time: 132.0 Topics: {'entertainment(s)', 'hello(p)', 'meeting-fu(p)', 'entertainment(p)'} 
+Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 132.0 End time: 144.0 Topics: {'meeting-fu(p)', 'sports(s)'} 
+Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 180.0 End time: 194.0 Topics: {'animals(s)'} 
+Reco: 20200826_1445_0036_0037_02_01_toen.txt Start time: 509.0 End time: 521.0 Topics: {'goodbye(p)', 'weather(p)', 'meeting-fu(s)', 'meeting-fu(p)', 'travel-pa(p)', 'work(p)', 'break(p)', 'travel-fu(p)'} 
+Reco: 20200826_1610_0013_0018_04_01_toen.txt Start time: 29.0 End time: 82.0 Topics: {'mood(s)', 'hello(p)', 'animals(p)', 'mood(p)'} 
+Reco: 20200826_1610_0013_0018_04_01_toen.txt Start time: 83.0 End time: 94.0 Topics: {'work(p)', 'mood(s)'} 
+Reco: 20200826_1610_0013_0018_04_01_toen.txt Start time: 184.0 End time: 305.0 Topics: {'life(p)', 'mood(s)', 'mood(p)'} 
+Reco: 20200827_0925_0047_0048_01_01_toen.txt Start time: 31.0 End time: 79.0 Topics: {'hello(p)', 'construction(p)', 'transport(s)'} 
+Reco: 20200827_0925_0047_0048_01_01_toen.txt Start time: 136.0 End time: 247.0 Topics: {'construction(s)', 'transport(p)'} 
+Reco: 20200827_0930_0047_0048_02_01_toen.txt Start time: 420.0 End time: 502.0 Topics: {'language(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200827_0942_0047_0048_03_01_toen.txt Start time: 174.0 End time: 182.0 Topics: {'school(p)', 'hello(p)', 'transport(p)', 'covid-19(s)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 168.0 End time: 190.0 Topics: {'addiction(p)', 'holiday(p)', 'sports(p)', 'real-estate(p)', 'work(p)', 'holiday(s)', 'hello(p)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 190.0 End time: 227.0 Topics: {'buying(p)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 239.0 End time: 250.0 Topics: {'health(s)', 'holiday(p)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 589.0 End time: 602.0 Topics: {'real-estate(p)', 'friends(s)', 'friends(p)', 'citizenship(p)', 'parenting(p)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 689.0 End time: 782.0 Topics: {'parenting(p)', 'tv(s)', 'friends(p)', 'citizenship(p)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 790.0 End time: 815.0 Topics: {'language(p)', 'tv(p)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 815.0 End time: 827.0 Topics: {'mood(s)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 839.0 End time: 849.0 Topics: {'hobbies(s)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 849.0 End time: 853.0 Topics: {'health(s)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 853.0 End time: 871.0 Topics: {'mood(s)'} 
+Reco: 20200827_1100_0024_0003_02_01_toen.txt Start time: 922.0 End time: 945.0 Topics: {'covid-19(s)', 'entertainment(p)'} 
+Reco: 20200827_1117_0024_0003_03_01_toen.txt Start time: 379.0 End time: 470.0 Topics: {'covid-19(s)', 'economy(p)', 'science(p)', 'work(p)', 'covid-19(p)', 'hello(p)', 'tv(p)'} 
+Reco: 20200827_1117_0024_0003_03_01_toen.txt Start time: 531.0 End time: 547.0 Topics: {'health(s)', 'covid-19(p)'} 
+Reco: 20200827_1117_0024_0003_03_01_toen.txt Start time: 737.0 End time: 805.0 Topics: {'transport(s)'} 
+Reco: 20200827_1331_0041_0042_01_01_toen.txt Start time: 635.0 End time: 718.0 Topics: {'sports(s)', 'travel-ge(p)', 'covid-19(p)', 'friends(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200827_1525_0016_0046_01_01_toen.txt Start time: 120.0 End time: 304.0 Topics: {'sports(s)', 'books(p)', 'life(s)', 'school(s)', 'connection(p)', 'hello(p)'} 
+Reco: 20200827_1525_0016_0046_01_01_toen.txt Start time: 358.0 End time: 377.0 Topics: {'location(s)'} 
+Reco: 20200827_1525_0016_0046_01_01_toen.txt Start time: 443.0 End time: 447.0 Topics: {'connection(s)'} 
+Reco: 20200828_0928_0020_0021_02_01_toen.txt Start time: 7.0 End time: 11.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200828_0928_0020_0021_02_01_toen.txt Start time: 269.0 End time: 276.0 Topics: {'work(p)', 'covid-19(s)'} 
+Reco: 20200828_1022_0039_0040_02_01_toen.txt Start time: 152.0 End time: 165.0 Topics: {'school(p)', 'hello(p)', 'connection(s)'} 
+Reco: 20200828_1518_0021_0025_02_01_toen.txt Start time: 186.0 End time: 368.0 Topics: {'hobbies(s)', 'mood(p)', 'school(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200828_1600_0013_0030_02_01_toen.txt Start time: 323.0 End time: 353.0 Topics: {'citizenship(s)', 'finances(p)', 'mood(p)', 'school(p)', 'work(p)', 'break(p)', 'hello(p)'} 
+Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 129.0 End time: 156.0 Topics: {'hello(p)', 'nature(p)', 'transport(s)'} 
+Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 391.0 End time: 416.0 Topics: {'location(s)'} 
+Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 417.0 End time: 432.0 Topics: {'home(s)'} 
+Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 433.0 End time: 603.0 Topics: {'personal(s)'} 
+Reco: 20200828_1609_0013_0030_03_01_toen.txt Start time: 627.0 End time: 650.0 Topics: {'location(s)'} 
+Reco: 20200831_1145_0032_0031_04_01_toen.txt Start time: 82.0 End time: 94.0 Topics: {'work(p)', 'hello(p)', 'personal(s)'} 
+Reco: 20200831_1145_0032_0031_04_01_toen.txt Start time: 449.0 End time: 457.0 Topics: {'break(p)', 'life(s)'} 
+Reco: 20200831_1154_0032_0031_05_01_toen.txt Start time: 46.0 End time: 57.0 Topics: {'weather(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200831_1154_0032_0031_05_01_toen.txt Start time: 514.0 End time: 525.0 Topics: {'language(s)', 'tv(p)', 'meeting-pa(p)', 'entertainment(p)'} 
+Reco: 20200831_1154_0032_0031_05_01_toen.txt Start time: 637.0 End time: 646.0 Topics: {'goodbye(p)', 'meeting-fu(s)', 'meeting-fu(p)', 'entertainment(p)', 'break(p)'} 
+Reco: 20200831_1600_0042_0041_02_01_toen.txt Start time: 16.0 End time: 25.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200831_1609_0042_0041_03_01_toen.txt Start time: 358.0 End time: 367.0 Topics: {'citizenship(s)', 'weather(p)', 'mood(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200831_1700_0033_0023_03_01_toen.txt Start time: 168.0 End time: 489.0 Topics: {'correspondence(s)', 'sports(p)', 'covid-19(s)', 'travel-ge(p)', 'hello(p)', 'travel-fu(p)'} 
+Reco: 20200901_0900_0012_0011_04_01_toen.txt Start time: 29.0 End time: 59.0 Topics: {'connection(p)', 'work(s)', 'hello(p)', 'life(p)'} 
+Reco: 20200901_0900_0012_0011_04_01_toen.txt Start time: 342.0 End time: 383.0 Topics: {'travel-pa(p)', 'marriage(p)', 'language(s)'} 
+Reco: 20200901_0900_0012_0011_04_01_toen.txt Start time: 383.0 End time: 437.0 Topics: {'romance(s)'} 
+Reco: 20200901_0910_0012_0011_05_01_toen.txt Start time: 200.0 End time: 284.0 Topics: {'weather(p)', 'entertainment(p)', 'life(p)', 'connection(p)', 'hello(p)', 'clothing(s)'} 
+Reco: 20200901_1100_0038_0032_03_01_toen.txt Start time: 331.0 End time: 425.0 Topics: {'sports(p)', 'entertainment(p)', 'health(p)', 'health(s)', 'hello(p)'} 
+Reco: 20200901_1110_0038_0032_04_01_toen.txt Start time: 15.0 End time: 21.0 Topics: {'health(s)', 'hello(p)', 'friends(p)'} 
+Reco: 20200901_1110_0038_0032_04_01_toen.txt Start time: 546.0 End time: 555.0 Topics: {'break(p)', 'work(s)', 'sports(p)'} 
+Reco: 20200901_1600_0037_0036_03_01_toen.txt Start time: 262.0 End time: 291.0 Topics: {'life(p)', 'transport(p)', 'work(p)', 'hello(p)', 'hygiene(s)'} 
+Reco: 20200901_1600_0037_0036_03_01_toen.txt Start time: 418.0 End time: 428.0 Topics: {'work(s)', 'sports(p)'} 
+Reco: 20200901_1609_0037_0036_04_01_toen.txt Start time: 13.0 End time: 16.0 Topics: {'mood(s)', 'hello(p)'} 
+Reco: 20200901_1609_0037_0036_04_01_toen.txt Start time: 250.0 End time: 267.0 Topics: {'hobbies(p)', 'health(s)'} 
+Reco: 20200902_1106_0021_0020_04_01_toen.txt Start time: 8.0 End time: 9.0 Topics: {'bg-spkr(p)', 'hello(p)'} 
+Reco: 20200902_1106_0021_0020_04_01_toen.txt Start time: 227.0 End time: 257.0 Topics: {'connection(p)', 'weather(s)', 'health(p)'} 
+Reco: 20200902_1106_0021_0020_04_01_toen.txt Start time: 326.0 End time: 366.0 Topics: {'food(s)'} 
+Reco: 20200902_1118_0021_0020_04_02_toen.txt Start time: 79.0 End time: 102.0 Topics: {'work(p)', 'hello(p)', 'society(s)'} 
+Reco: 20200902_1606_0040_0039_05_01_toen.txt Start time: 82.0 End time: 128.0 Topics: {'covid-19(s)', 'hello(p)', 'travel-fu(p)'} 
+Reco: 20200902_1606_0040_0039_05_01_toen.txt Start time: 213.0 End time: 250.0 Topics: {'food(s)'} 
+Reco: 20200902_1616_0040_0039_06_01_toen.txt Start time: 115.0 End time: 205.0 Topics: {'work(s)', 'hello(p)', 'real-estate(p)', 'mood(p)'} 
+Reco: 20200902_1810_0049_0042_01_01_toen.txt Start time: 70.0 End time: 74.0 Topics: {'language(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200902_1824_0049_0042_03_01_toen.txt Start time: 235.0 End time: 305.0 Topics: {'weather(p)', 'travel-pa(p)', 'work(p)', 'life(s)', 'hello(p)', 'travel-fu(p)'} 
+Reco: 20200902_1824_0049_0042_03_01_toen.txt Start time: 314.0 End time: 322.0 Topics: {'covid-19(s)', 'travel-fu(p)'} 
+Reco: 20200907_0900_0048_0047_04_01_toen.txt Start time: 256.0 End time: 364.0 Topics: {'activities-ge(p)', 'hello(p)', 'parenting(p)', 'covid-19(s)'} 
+Reco: 20200907_0900_0048_0047_04_01_toen.txt Start time: 461.0 End time: 558.0 Topics: {'covid-19(s)'} 
+Reco: 20200907_1011_0054_0055_01_01_toen.txt Start time: 193.0 End time: 316.0 Topics: {'location(s)', 'holiday(p)', 'connection(p)', 'hello(p)', 'travel-fu(p)'} 
+Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 19.0 End time: 22.0 Topics: {'connection(p)', 'hello(s)'} 
+Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 210.0 End time: 305.0 Topics: {'meeting-ge(p)', 'work(p)', 'school(s)'} 
+Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 338.0 End time: 352.0 Topics: {'language(s)'} 
+Reco: 20200908_1645_0056_0057_01_01_toen.txt Start time: 448.0 End time: 474.0 Topics: {'covid-19(s)'} 
+Reco: 20200908_1658_0056_0057_02_01_toen.txt Start time: 176.0 End time: 197.0 Topics: {'work(s)', 'hello(p)', 'friends(p)'} 
+Reco: 20200908_1658_0056_0057_02_01_toen.txt Start time: 288.0 End time: 307.0 Topics: {'work(s)'} 
+Reco: 20200908_1658_0056_0057_02_01_toen.txt Start time: 401.0 End time: 412.0 Topics: {'work(p)', 'meeting-fu(p)', 'school(s)'} 
+Reco: 20200908_1742_0053_0050_05_01_toen.txt Start time: 433.0 End time: 448.0 Topics: {'life(s)', 'hello(p)', 'activities-fu(p)', 'tv(p)'} 
+Reco: 20200908_1837_0052_0051_03_01_toen.txt Start time: 40.0 End time: 43.0 Topics: {'distraction(s)', 'break(p)', 'hello(p)'} 
+Reco: 20200908_1837_0052_0051_03_01_toen.txt Start time: 102.0 End time: 223.0 Topics: {'distraction(s)', 'work(p)'} 
+Reco: 20200908_1837_0052_0051_03_01_toen.txt Start time: 292.0 End time: 294.0 Topics: {'distraction(s)', 'life(p)'} 
+Reco: 20200909_1351_0045_0044_05_01_toen.txt Start time: 186.0 End time: 228.0 Topics: {'health(s)', 'hello(p)', 'animals(p)'} 
+Reco: 20200909_1351_0045_0044_05_01_toen.txt Start time: 263.0 End time: 311.0 Topics: {'life(s)'} 
+Reco: 20200909_1420_0025_0021_04_01_toen.txt Start time: 18.0 End time: 22.0 Topics: {'mood(s)', 'hello(p)'} 
+Reco: 20200909_1422_0025_0021_04_02_toen.txt Start time: 91.0 End time: 93.0 Topics: {'crosstalk(s)', 'hello(p)', 'animals(p)'} 
+Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 213.0 End time: 280.0 Topics: {'weather(p)', 'sports(p)', 'life(p)', 'covid-19(p)', 'hello(p)', 'transport(s)'} 
+Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 280.0 End time: 313.0 Topics: {'law(s)'} 
+Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 434.0 End time: 512.0 Topics: {'school(s)', 'parenting(p)', 'meeting-fu(p)'} 
+Reco: 20200911_0900_0043_0020_02_01_toen.txt Start time: 563.0 End time: 602.0 Topics: {'school(p)', 'citizenship(s)'} 
+Reco: 20200911_1145_0055_0054_03_01_toen.txt Start time: 205.0 End time: 218.0 Topics: {'school(p)', 'location(s)', 'hello(p)'} 
+Reco: 20200911_1145_0055_0054_03_01_toen.txt Start time: 219.0 End time: 241.0 Topics: {'transport(s)'} 
+Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 394.0 End time: 403.0 Topics: {'hello(p)', 'books(s)', 'tv(p)'} 
+Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 407.0 End time: 419.0 Topics: {'science(s)'} 
+Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 422.0 End time: 443.0 Topics: {'language(s)'} 
+Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 445.0 End time: 462.0 Topics: {'hygiene(s)'} 
+Reco: 20200911_1153_0055_0054_04_01_toen.txt Start time: 463.0 End time: 485.0 Topics: {'food(s)'} 
+Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 51.0 End time: 61.0 Topics: {'travel-pa(p)', 'weather(s)', 'hello(p)'} 
+Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 147.0 End time: 196.0 Topics: {'travel-pa(p)', 'work(p)', 'break(p)', 'animals(s)'} 
+Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 219.0 End time: 292.0 Topics: {'hobbies(s)'} 
+Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 353.0 End time: 376.0 Topics: {'location(s)'} 
+Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 379.0 End time: 402.0 Topics: {'buying(s)'} 
+Reco: 20200914_0913_0067_0068_01_01_toen.txt Start time: 411.0 End time: 501.0 Topics: {'animals(s)'} 
+Reco: 20200914_1145_0035_0034_04_01_toen.txt Start time: 663.0 End time: 674.0 Topics: {'work(p)', 'hello(p)', 'break(p)', 'animals(s)'} 
+Reco: 20200914_1158_0035_0034_05_01_toen.txt Start time: 43.0 End time: 65.0 Topics: {'weather(s)', 'hello(p)', 'home(p)'} 
+Reco: 20200914_1158_0035_0034_05_01_toen.txt Start time: 65.0 End time: 161.0 Topics: {'real-estate(s)'} 
+Reco: 20200915_1630_0034_0060_03_01_toen.txt Start time: 162.0 End time: 190.0 Topics: {'hello(p)', 'politics(p)', 'travel-pa(s)'} 
+Reco: 20200915_1630_0034_0060_03_01_toen.txt Start time: 349.0 End time: 357.0 Topics: {'technology(p)', 'break(p)', 'animals(s)', 'society(p)'} 
+Reco: 20200915_1637_0034_0060_04_01_toen.txt Start time: 22.0 End time: 26.0 Topics: {'weather(s)', 'hello(p)', 'life(p)'} 
+Reco: 20200915_1637_0034_0060_04_01_toen.txt Start time: 59.0 End time: 286.0 Topics: {'buying(s)', 'transport(p)', 'politics(p)'} 
+Reco: 20200915_1637_0034_0060_04_01_toen.txt Start time: 318.0 End time: 326.0 Topics: {'food(p)', 'transport(s)', 'goodbye(p)', 'romance(p)'} 
+Reco: 20200915_1644_0034_0060_05_01_toen.txt Start time: 19.0 End time: 106.0 Topics: {'hello(p)', 'holiday(p)', 'friends(s)'} 
+Reco: 20200915_1648_0034_0060_06_01_toen.txt Start time: 61.0 End time: 71.0 Topics: {'covid-19(s)', 'covid-19(p)', 'travel-fu(p)'} 
+Reco: 20200915_1648_0034_0060_06_01_toen.txt Start time: 91.0 End time: 104.0 Topics: {'covid-19(s)'} 
+Reco: 20200915_1648_0034_0060_06_01_toen.txt Start time: 110.0 End time: 130.0 Topics: {'travel-fu(s)', 'friends(p)'} 
+Reco: 20200915_1742_0061_0064_01_01_toen.txt Start time: 89.0 End time: 124.0 Topics: {'weather(p)', 'music(p)', 'health(s)', 'crosstalk(s)', 'hello(p)'} 
+Reco: 20200915_1742_0061_0064_01_01_toen.txt Start time: 391.0 End time: 392.0 Topics: {'crosstalk(s)', 'work(p)', 'construction(p)'} 
+Reco: 20200915_1750_0061_0064_01_02_toen.txt Start time: 13.0 End time: 38.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200915_1750_0061_0064_01_02_toen.txt Start time: 209.0 End time: 212.0 Topics: {'technology(p)', 'crosstalk(s)', 'music(p)'} 
+Reco: 20200915_1750_0061_0064_01_02_toen.txt Start time: 391.0 End time: 394.0 Topics: {'crosstalk(s)', 'art(p)', 'meeting-fu(p)'} 
+Reco: 20200915_1939_0061_0066_01_01_toen.txt Start time: 70.0 End time: 120.0 Topics: {'technology(s)', 'mood(p)', 'work(p)', 'hello(P)', 'break(p)'} 
+Reco: 20200915_1948_0061_0066_02_01_toen.txt Start time: 153.0 End time: 196.0 Topics: {'music(s)', 'break(p)', 'hello(p)', 'meeting-fu(p)'} 
+Reco: 20200917_1100_0069_0070_01_01_toen.txt Start time: 31.0 End time: 40.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200917_1100_0069_0070_01_01_toen.txt Start time: 352.0 End time: 364.0 Topics: {'hobbies(p)', 'break(p)', 'collection(s)'} 
+Reco: 20200917_1106_0069_0070_02_01_toen.txt Start time: 687.0 End time: 697.0 Topics: {'school(p)', 'break(p)', 'hello(p)', 'collection(s)'} 
+Reco: 20200917_1253_0073_0074_02_01_toen.txt Start time: 54.0 End time: 82.0 Topics: {'hobbies(p)', 'hello(p)', 'covid-19(s)'} 
+Reco: 20200917_1253_0073_0074_02_01_toen.txt Start time: 292.0 End time: 331.0 Topics: {'meeting-fu(p)', 'health(p)', 'hobbies(p)', 'break(p)', 'addiction(s)'} 
+Reco: 20200918_1115_0068_0067_02_01_toen.txt Start time: 91.0 End time: 121.0 Topics: {'sports(p)', 'buying(p)', 'life(p)', 'health(s)', 'hello(p)'} 
+Reco: 20200918_1115_0068_0067_02_01_toen.txt Start time: 269.0 End time: 318.0 Topics: {'hobbies(p)', 'travel-pa(s)', 'travel-fu(p)'} 
+Reco: 20200918_1124_0068_0067_03_01_toen.txt Start time: 151.0 End time: 194.0 Topics: {'food(p)', 'hello(p)', 'friends(s)'} 
+Reco: 20200918_1155_0001_0065_05_01_toen.txt Start time: 206.0 End time: 214.0 Topics: {'transport(p)', 'weather(s)', 'nature(p)', 'hello(p)', 'travel-fu(p)'} 
+Reco: 20200918_1200_0001_0065_06_01_toen.txt Start time: 343.0 End time: 366.0 Topics: {'work(p)', 'hello(p)', 'friends(s)'} 
+Reco: 20200918_1200_0001_0065_06_01_toen.txt Start time: 543.0 End time: 552.0 Topics: {'work(p)', 'meeting-fu(s)', 'friends(p)', 'break(p)'} 
+Reco: 20200921_1100_0064_0061_02_01_toen.txt Start time: 136.0 End time: 701.0 Topics: {'work(s)', 'music(p)', 'hello(p)', 'meeting-fu(p)'} 
+Reco: 20200921_1112_0064_0061_02_02_toen.txt Start time: 14.0 End time: 19.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200921_1112_0064_0061_02_02_toen.txt Start time: 558.0 End time: 594.0 Topics: {'life(p)', 'music(p)', 'animals(s)', 'entertainment(p)'} 
+Reco: 20200921_1112_0064_0061_02_02_toen.txt Start time: 599.0 End time: 637.0 Topics: {'goodbye(s)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 38.0 End time: 48.0 Topics: {'hobbies(p)', 'break(p)', 'break(s)', 'hello(p)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 48.0 End time: 51.0 Topics: {'health(s)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 68.0 End time: 105.0 Topics: {'nature(s)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 124.0 End time: 147.0 Topics: {'meeting-pa(s)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 147.0 End time: 157.0 Topics: {'break(s)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 157.0 End time: 163.0 Topics: {'connection(s)'} 
+Reco: 20200921_1330_0074_0073_04_01_toen.txt Start time: 293.0 End time: 299.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200921_1335_0074_0073_05_01_toen.txt Start time: 52.0 End time: 75.0 Topics: {'buying(s)', 'hello(p)', 'construction(p)'} 
+Reco: 20200921_1335_0074_0073_05_01_toen.txt Start time: 238.0 End time: 245.0 Topics: {'break(s)'} 
+Reco: 20200921_1335_0074_0073_05_01_toen.txt Start time: 381.0 End time: 387.0 Topics: {'health(s)', 'home(p)'} 
+Reco: 20200921_1343_0074_0073_06_01_toen.txt Start time: 75.0 End time: 80.0 Topics: {'weather(s)', 'hello(p)', 'holiday(p)', 'mood(p)'} 
+Reco: 20200921_1430_0081_0082_01_01_toen.txt Start time: 20.0 End time: 111.0 Topics: {'travel-fu(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200921_1515_0059_0058_04_01_toen.txt Start time: 107.0 End time: 109.0 Topics: {'work(p)', 'hello(p)', 'connection(s)'} 
+Reco: 20200921_1524_0059_0058_05_01_toen.txt Start time: 13.0 End time: 17.0 Topics: {'bg-spkr(s)', 'hello(p)'} 
+Reco: 20200921_1524_0059_0058_05_01_toen.txt Start time: 61.0 End time: 71.0 Topics: {'music(p)', 'books(s)'} 
+Reco: 20200922_1740_0071_0072_01_01_toen.txt Start time: 49.0 End time: 51.0 Topics: {'crosstalk(p)', 'work(p)', 'crosstalk(s)', 'connection(p)', 'hello(p)'} 
+Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 19.0 End time: 24.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 156.0 End time: 159.0 Topics: {'crosstalk(s)', 'friends(p)', 'holiday(p)', 'life(p)'} 
+Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 225.0 End time: 227.0 Topics: {'crosstalk(s)', 'entertainment(p)'} 
+Reco: 20200922_1745_0071_0072_01_02_toen.txt Start time: 321.0 End time: 324.0 Topics: {'crosstalk(s)', 'holiday(p)'} 
+Reco: 20200922_1753_0071_0072_02_01_toen.txt Start time: 219.0 End time: 221.0 Topics: {'hobbies(p)', 'work(p)', 'hello(p)', 'crosstalk(s)'} 
+Reco: 20200922_1943_0079_0080_01_01_toen.txt Start time: 128.0 End time: 159.0 Topics: {'covid-19(s)', 'health(p)', 'work(p)', 'friends(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200922_1948_0079_0080_01_02_toen.txt Start time: 82.0 End time: 117.0 Topics: {'travel-fu(s)', 'connection(p)', 'hello(p)', 'covid-19(p)'} 
+Reco: 20200922_2039_0075_0076_02_01_toen.txt Start time: 41.0 End time: 144.0 Topics: {'work(p)', 'hello(p)', 'covid-19(s)'} 
+Reco: 20200922_2039_0075_0076_02_01_toen.txt Start time: 438.0 End time: 515.0 Topics: {'personal(p)', 'meeting-fu(p)', 'health(p)', 'health(s)', 'transport(p)'} 
+Reco: 20200922_2039_0075_0076_02_01_toen.txt Start time: 515.0 End time: 530.0 Topics: {'break(p)', 'meeting-fu(s)'} 
+Reco: 20200923_1843_0077_0078_01_01_toen.txt Start time: 374.0 End time: 401.0 Topics: {'hello(p)', 'travel-ge(p)', 'food(s)'} 
+Reco: 20200923_1930_0080_0079_02_01_toen.txt Start time: 21.0 End time: 339.0 Topics: {'music(s)', 'work(p)', 'hello(p)'} 
+Reco: 20200923_1938_0080_0079_03_01_toen.txt Start time: 253.0 End time: 337.0 Topics: {'sports(s)', 'performance(p)', 'work(p)', 'food(p)', 'connection(p)', 'hello(p)', 'society(p)'} 
+Reco: 20200923_1938_0080_0079_03_01_toen.txt Start time: 555.0 End time: 591.0 Topics: {'work(p)', 'sports(s)', 'tv(p)'} 
+Reco: 20200923_2045_0085_0086_01_01_toen.txt Start time: 184.0 End time: 212.0 Topics: {'entertainment(p)', 'construction(s)', 'school(p)', 'work(p)', 'friends(p)', 'hello(p)'} 
+Reco: 20200923_2045_0085_0086_01_01_toen.txt Start time: 493.0 End time: 523.0 Topics: {'food(p)', 'work(p)', 'home(s)', 'real-estate(p)'} 
+Reco: 20200923_2055_0085_0086_02_01_toen.txt Start time: 26.0 End time: 375.0 Topics: {'music(s)', 'hello(p)', 'entertainment(p)'} 
+Reco: 20200924_1213_0066_0064_01_01_toen.txt Start time: 22.0 End time: 148.0 Topics: {'music(s)', 'connection(p)', 'work(p)', 'hello(p)'} 
+Reco: 20200924_1213_0066_0064_01_01_toen.txt Start time: 153.0 End time: 157.0 Topics: {'crosstalk(s)'} 
+Reco: 20200924_1213_0066_0064_01_01_toen.txt Start time: 293.0 End time: 366.0 Topics: {'finances(s)'} 
+Reco: 20200924_1220_0066_0064_02_01_toen.txt Start time: 123.0 End time: 126.0 Topics: {'hobbies(p)', 'work(p)', 'hello(p)', 'crosstalk(s)'} 
+Reco: 20200924_1220_0066_0064_02_01_toen.txt Start time: 328.0 End time: 332.0 Topics: {'crosstalk(s)'} 
+Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 18.0 End time: 43.0 Topics: {'correspondence(p)', 'holiday(s)', 'hello(p)'} 
+Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 43.0 End time: 60.0 Topics: {'transport(p)'} 
+Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 60.0 End time: 79.0 Topics: {'buying(p)'} 
+Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 79.0 End time: 100.0 Topics: {'food(p)', 'holiday(p)'} 
+Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 129.0 End time: 134.0 Topics: {'finances(s)'} 
+Reco: 20200924_1515_0089_0090_01_01_toen.txt Start time: 147.0 End time: 161.0 Topics: {'holiday(s)', 'transport(p)'} 
+Reco: 20200924_1519_0089_0090_02_01_toen.txt Start time: 42.0 End time: 50.0 Topics: {'meeting-ge(p)', 'hello(p)', 'buying(p)', 'food(s)'} 
+Reco: 20200924_1519_0089_0090_02_01_toen.txt Start time: 86.0 End time: 109.0 Topics: {'entertainment(s)', 'meeting-fu(p)'} 
+Reco: 20200924_1521_0089_0090_03_01_toen.txt Start time: 76.0 End time: 103.0 Topics: {'technology(p)', 'technology(s)', 'hello(p)', 'buying(p)'} 
+Reco: 20200924_1525_0089_0090_04_01_toen.txt Start time: 123.0 End time: 131.0 Topics: {'life(p)', 'travel-ge(p)', 'work(p)', 'crosstalk(s)', 'hello(p)'} 
+Reco: 20200924_1525_0089_0090_04_01_toen.txt Start time: 197.0 End time: 209.0 Topics: {'food(s)'} 
+Reco: 20200924_1525_0089_0090_04_01_toen.txt Start time: 251.0 End time: 284.0 Topics: {'food(s)'} 
+Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 15.0 End time: 27.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 223.0 End time: 238.0 Topics: {'weather(p)', 'home(p)', 'meeting-fu(p)', 'connection(p)', 'transport(s)'} 
+Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 238.0 End time: 272.0 Topics: {'work(s)'} 
+Reco: 20200925_1008_0095_0091_01_01_toen.txt Start time: 284.0 End time: 319.0 Topics: {'parenting(s)', 'friends(p)'} 
+Reco: 20200925_1013_0095_0091_02_01_toen.txt Start time: 31.0 End time: 300.0 Topics: {'hello(p)', 'holiday(p)', 'friends(s)'} 
+Reco: 20200925_1020_0095_0091_03_01_toen.txt Start time: 295.0 End time: 463.0 Topics: {'personal(p)', 'health(p)', 'transport(p)', 'science(s)', 'hello(p)'} 
+Reco: 20200925_1152_0076_0075_04_01_toen.txt Start time: 495.0 End time: 525.0 Topics: {'travel-pa(p)', 'travel-fu(s)', 'citizenship(p)', 'break(p)', 'hello(p)'} 
+Reco: 20200925_1525_0087_0088_01_01_toen.txt Start time: 76.0 End time: 105.0 Topics: {'hello(p)', 'meeting-fu(p)', 'transport(s)'} 
+Reco: 20200925_1535_0087_0088_02_01_toen.txt Start time: 474.0 End time: 504.0 Topics: {'goodbye(p)', 'meeting-fu(s)', 'buying(p)', 'life(p)', 'travel-pa(p)', 'work(p)', 'food(p)', 'hello(p)'} 
+Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 56.0 End time: 58.0 Topics: {'hobbies(p)', 'hello(p)', 'connection(s)'} 
+Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 190.0 End time: 198.0 Topics: {'technology(p)', 'connection(s)', 'meeting-fu(p)'} 
+Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 230.0 End time: 234.0 Topics: {'crosstalk(s)'} 
+Reco: 20200928_1100_0064_0066_03_01_toen.txt Start time: 294.0 End time: 297.0 Topics: {'technology(p)', 'crosstalk(s)'} 
+Reco: 20200928_1111_0064_0066_04_01_toen.txt Start time: 125.0 End time: 140.0 Topics: {'connection(p)', 'life(p)', 'hello(p)', 'mood(p)'} 
+Reco: 20200928_1111_0064_0066_04_01_toen.txt Start time: 217.0 End time: 236.0 Topics: {'connection(p)'} 
+Reco: 20200928_1111_0064_0066_04_01_toen.txt Start time: 316.0 End time: 320.0 Topics: {'connection(p)', 'work(p)', 'crosstalk(p)'} 
+Reco: 20200928_1145_0072_0071_03_01_toen.txt Start time: 21.0 End time: 22.0 Topics: {'work(p)', 'hello(p)', 'connection(s)'} 
+Reco: 20200928_1150_0072_0071_04_01_toen.txt Start time: 91.0 End time: 93.0 Topics: {'technology(p)', 'crosstalk(s)', 'hello(p)', 'holiday(p)'} 
+Reco: 20200928_1150_0072_0071_04_01_toen.txt Start time: 107.0 End time: 109.0 Topics: {'crosstalk(s)'} 
+Reco: 20200928_1159_0072_0071_05_01_toen.txt Start time: 15.0 End time: 16.0 Topics: {'hello(p)', 'connection(s)'} 
+Reco: 20200928_1210_0066_0061_03_01_toen.txt Start time: 470.0 End time: 519.0 Topics: {'music(p)', 'mood(p)', 'friends(s)', 'covid-19(p)', 'connection(p)', 'hello(p)'} 
+Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 20.0 End time: 52.0 Topics: {'health(s)', 'hello(p)', 'meeting-fu(p)'} 
+Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 127.0 End time: 145.0 Topics: {'covid-19(s)'} 
+Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 238.0 End time: 251.0 Topics: {'mood(s)'} 
+Reco: 20200928_1515_0092_0075_04_01_toen.txt Start time: 251.0 End time: 322.0 Topics: {'music(s)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 85.0 End time: 102.0 Topics: {'location(s)', 'hello(p)', 'entertainment(p)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 123.0 End time: 159.0 Topics: {'finances(s)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 191.0 End time: 211.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 246.0 End time: 270.0 Topics: {'meeting-fu(s)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 273.0 End time: 369.0 Topics: {'music(p)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 377.0 End time: 396.0 Topics: {'buying(s)'} 
+Reco: 20200928_1600_0090_0089_05_01_toen.txt Start time: 483.0 End time: 491.0 Topics: {'goodbye(p)'} 
+Reco: 20200928_1609_0090_0089_06_01_toen.txt Start time: 54.0 End time: 91.0 Topics: {'entertainment(s)', 'hello(p)', 'meeting-fu(p)'} 
+Reco: 20200928_1609_0090_0089_06_01_toen.txt Start time: 91.0 End time: 301.0 Topics: {'tv(s)'} 
+Reco: 20200928_1609_0090_0089_06_01_toen.txt Start time: 302.0 End time: 341.0 Topics: {'finances(s)'} 
+Reco: 20200929_1351_0093_0094_01_01_toen.txt Start time: 202.0 End time: 281.0 Topics: {'connection(p)', 'work(p)', 'health(s)', 'friends(p)'} 
+Reco: 20200929_2005_0086_0085_03_01_toen.txt Start time: 428.0 End time: 509.0 Topics: {'meeting-fu(p)', 'life(p)', 'friends(s)', 'work(p)', 'food(p)', 'hello(p)'} 
+Reco: 20200929_2017_0086_0085_04_01_toen.txt Start time: 263.0 End time: 297.0 Topics: {'hobbies(p)', 'work(p)', 'break(s)', 'hello(p)'} 
+Reco: 20200930_1530_0088_0087_03_01_toen.txt Start time: 29.0 End time: 34.0 Topics: {'work(p)', 'bg-spkr(s)', 'hello(p)'} 
+Reco: 20200930_1530_0088_0087_03_01_toen.txt Start time: 249.0 End time: 251.0 Topics: {'food(p)', 'transport(p)', 'connection(s)'} 
+Reco: 20200930_1537_0088_0087_04_01_toen.txt Start time: 532.0 End time: 581.0 Topics: {'sports(p)', 'health(p)', 'buying(p)', 'school(p)', 'work(p)', 'connection(p)', 'hello(p)', 'food(s)'} 
+Reco: 20200930_1830_0078_0077_03_01_toen.txt Start time: 61.0 End time: 107.0 Topics: {'mood(s)', 'hello(p)', 'tv(p)'} 
+Reco: 20200930_1830_0078_0077_03_01_toen.txt Start time: 355.0 End time: 406.0 Topics: {'mood(s)'} 
+Reco: 20200930_2035_0021_0068_01_01_toen.txt Start time: 48.0 End time: 66.0 Topics: {'connection(p)', 'work(p)', 'meeting-fu(s)', 'hello(p)'} 
+Reco: 20200930_2035_0021_0068_01_01_toen.txt Start time: 148.0 End time: 155.0 Topics: {'meeting-fu(s)', 'transport(p)', 'activities-fu(p)'} 
+Reco: 20200930_2040_0021_0068_02_01_toen.txt Start time: 41.0 End time: 157.0 Topics: {'hello(p)', 'location(p)', 'food(s)'} 
+Reco: 20201001_0915_0096_0097_01_01_toen.txt Start time: 35.0 End time: 169.0 Topics: {'entertainment(s)', 'hello(p)', 'meeting-fu(p)'} 
+Reco: 20201001_0920_0096_0097_02_01_toen.txt Start time: 27.0 End time: 35.0 Topics: {'directions(s)', 'hello(p)', 'holiday(p)'} 
+Reco: 20201001_0925_0096_0097_03_01_toen.txt Start time: 20.0 End time: 27.0 Topics: {'covid-19(s)', 'hello(p)', 'travel-fu(p)'} 
+Reco: 20201001_0925_0096_0097_03_01_toen.txt Start time: 423.0 End time: 446.0 Topics: {'weather(p)', 'meeting-fu(p)', 'tv(p)', 'work(p)', 'books(p)', 'marriage(s)', 'break(p)', 'travel-fu(p)'} 
+Reco: 20201001_1445_0094_0093_02_01_toen.txt Start time: 61.0 End time: 111.0 Topics: {'holiday(p)', 'hobbies(p)', 'friends(s)', 'connection(p)', 'hello(p)'} 
+Reco: 20201001_1445_0094_0093_02_01_toen.txt Start time: 494.0 End time: 549.0 Topics: {'weather(p)', 'buying(p)', 'hobbies(p)', 'health(s)', 'travel-ge(p)', 'activities-fu(p)', 'transport(p)', 'work(p)', 'distraction(p)', 'friends(p)'} 
+Reco: 20201001_1445_0094_0093_02_01_toen.txt Start time: 665.0 End time: 716.0 Topics: {'hobbies(p)', 'work(p)', 'covid-19(s)'} 
+Reco: 20201006_1400_0097_0096_04_01_toen.txt Start time: 121.0 End time: 152.0 Topics: {'activities-ge(p)', 'hello(p)', 'friends(s)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 30.0 End time: 71.0 Topics: {'friends(s)', 'hello(p)', 'holiday(p)', 'life(p)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 71.0 End time: 95.0 Topics: {'food(s)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 95.0 End time: 132.0 Topics: {'friends(s)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 132.0 End time: 188.0 Topics: {'entertainment(s)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 188.0 End time: 349.0 Topics: {'food(p)', 'holiday(s)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 390.0 End time: 408.0 Topics: {'holiday(p)', 'friends(s)'} 
+Reco: 20201006_1413_0097_0096_05_01_toen.txt Start time: 408.0 End time: 434.0 Topics: {'goodbye(p)', 'life(s)'} 
