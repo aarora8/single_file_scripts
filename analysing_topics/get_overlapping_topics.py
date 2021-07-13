@@ -132,7 +132,7 @@ def main():
 
 
     for _, seg in enumerate(overlap_segs):
-        print(seg)
+        # print(seg)
         output_topic_handle.write("Reco: {0} Start time: {1} End time: {2} Topics: {3} \n".format(seg.reco_id, seg.start_time, seg.end_time, seg.topic_id))
 
 
