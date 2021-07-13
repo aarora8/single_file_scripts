@@ -125,7 +125,8 @@ def main():
     for reco_id in reco2segs.keys():
         segs = reco2segs[reco_id]
         overlap_segs.extend(find_overlapping_segments(segs, 'overlap'))
-    
+
+
     for _, seg in enumerate(overlap_segs):
         print(seg)
         output_topic_handle.write("Reco: {0} Start time: {1} End time: {2} Topics: {3} \n".format(seg.reco_id, seg.start_time, seg.end_time, seg.topic_id))
