@@ -19,6 +19,7 @@ def main():
     uttname = '20200925_1525_0087_0088_01_01_toen.txt'
     uttname = '20200928_1150_0072_0071_04_01_toen.txt'
     topic_dict = {}
+    topic_dict2 = {}
     Segment = namedtuple('Segment', 'reco topic topicid start end type')
     segments = []
     for line in text_file_data:
@@ -59,10 +60,13 @@ def main():
     fig = plt.figure()
     ax = plt.axes()
 
-    c = ['blue', 'orange', 'green', 'red', 'purple', 'brown', 'pink', 'yellow', 'cyan', 'magenta']
+    # c = ['blue', 'yellow', 'green', 'red', 'pink', 'sky', 'mallow', 'black', 'khaki', 'magenta']
+    c = ['blue', 'orange', 'green', 'red', 'purple', 'black', 'yellow', 'pink', 'cyan', 'magenta']
     for _, seg in enumerate(segments):
-        # print("Topic {}: {} start {} end".format(seg.topicid, seg.start, seg.end))
-        ax.hlines(y=seg.topicid, xmin=seg.start, xmax=seg.end, label=seg.topic, linewidth=2, color=c[seg.topicid% 10])
+        if seg.topic not in topic_dict2:
+            topic_dict2[seg.topic] = len(topic_dict2)
+            ax.hlines(y=seg.topicid, xmin=seg.start, xmax=seg.end, label=seg.topic, linewidth=2, color=c[seg.topicid% 10])
+        ax.hlines(y=seg.topicid, xmin=seg.start, xmax=seg.end, linewidth=2, color=c[seg.topicid% 10])
     
     ax.autoscale()
     ax.margins(0.1)
