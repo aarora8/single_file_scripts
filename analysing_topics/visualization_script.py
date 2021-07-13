@@ -14,6 +14,8 @@ from collections import namedtuple
 def main():
     
     topic_text = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text.txt'
+    output_topic_info = '/Users/ashisharora/Desktop/root/toolkits/single_file_scripts/analysing_topics/visualization.txt'
+    output_topic_handle = open(output_topic_info, 'w', encoding='utf8')
     text_file_handle = open(topic_text, 'r', encoding='utf8')
     text_file_data = text_file_handle.read().strip().split("\n")    
     Segment = namedtuple('Segment', 'reco topic topicid start end type')
@@ -27,7 +29,8 @@ def main():
         if len(parts) == 5:
             curr_reco = parts[0]
             if prev_reco != curr_reco:
-                print('new recording')
+                # print('new recording')
+                output_topic_handle.write('new recording' + '\n')
                 # plot the segments
                 plt.style.use('seaborn-whitegrid')
                 fig = plt.figure()
@@ -35,7 +38,8 @@ def main():
                 # plotting horizontal lines with labels and colors
                 c = ['blue', 'orange', 'green', 'red', 'purple', 'black', 'yellow', 'pink', 'cyan', 'magenta']
                 for _, seg in enumerate(segments):
-                    print(' Reco: {} Topic: {}  Start time: {}  End time: {} '.format(prev_reco, seg.topic, seg.start, seg.end))
+                    # print(' Reco: {} Topic: {}  Start time: {}  End time: {} '.format(prev_reco, seg.topic, seg.start, seg.end))
+                    output_topic_handle.write("Reco: {0} Topic: {1} Start time: {2} End time: {3} + \n".format(prev_reco, seg.topic, seg.start, seg.end))
                     # add label only if it is a new label
                     str_label = seg.topic
                     if str_label not in topic_dict2:
