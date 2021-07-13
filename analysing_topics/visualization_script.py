@@ -22,7 +22,6 @@ def main():
     segments = []
     topic_dict = {}
     topic_dict2 = {}
-    count = 0
     for line in text_file_data:
         parts = line.strip().split()
         if len(parts) == 5:
@@ -38,9 +37,10 @@ def main():
                 for _, seg in enumerate(segments):
                     print(' Reco: {} Topic: {}  Start time: {}  End time: {} '.format(prev_reco, seg.topic, seg.start, seg.end))
                     # add label only if it is a new label
-                    if seg.topic not in topic_dict2:
-                        topic_dict2[seg.topic] = len(topic_dict2)
-                        ax.hlines(y=seg.topicid, xmin=seg.start, xmax=seg.end, label=seg.topic, linewidth=2, color=c[seg.topicid% 10])
+                    str_label = seg.topic
+                    if str_label not in topic_dict2:
+                        topic_dict2[str_label] = len(topic_dict2)
+                        ax.hlines(y=seg.topicid, xmin=seg.start, xmax=seg.end, label=str_label, linewidth=2, color=c[seg.topicid% 10])
                     ax.hlines(y=seg.topicid, xmin=seg.start, xmax=seg.end, linewidth=2, color=c[seg.topicid% 10])
                 
                 ax.autoscale()
@@ -76,7 +76,7 @@ def main():
                 end_seconds = timedelta(seconds=int(end_seconds_txt)).total_seconds()
 
             # get topic and topic id
-            topic = parts[3]
+            topic = parts[3] + '(' + parts[4] + ')'
             if topic not in topic_dict:
                 topic_dict[topic] = len(topic_dict)
 
