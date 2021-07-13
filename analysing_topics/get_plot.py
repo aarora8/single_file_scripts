@@ -1,7 +1,6 @@
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
 
 def main():
     plt.style.use('seaborn-whitegrid')
@@ -31,6 +30,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# uttname = '20200925_1525_0087_0088_01_01_toen.txt'
+# uttname = '20200928_1150_0072_0071_04_01_toen.txt'
 # plt.legend(loc='upper left')
 # fig = plt.figure()
 # x = np.array([0,1,2,3])
