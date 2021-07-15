@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 # This script sorts the utterance based in the error
-# Ashish Arora
-# License: Apache 2.0
 from collections import OrderedDict
 import sys, io
 import string
-# infile = io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8')
-# output = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 infile = '/Users/ashisharora/Desktop/per_utt.txt'
 output = '/Users/ashisharora/Desktop/output.txt'
 output_handle = open(output, 'w', encoding='utf8')
@@ -51,12 +47,5 @@ wer = total_error * 100 / total_words
 # print(total_deletion)
 # print(total_substitution)
 # print("{:.2f}".format(wer))
-# sorted_dict = dict(sorted(csid_dict.items(), key=lambda item: item[1][1]))
-# sorted_dict = sorted(csid_dict.items(), key=lambda item: item[1], reverse=True)
-# for w in sorted(csid_dict, key=csid_dict.get, reverse=True):
 for w in sorted(csid_dict.items(), key=lambda x: x[1][1], reverse=True):
-    # print(w)
     output_handle.write(str(w[0]) + ' ' + str(w[1]) + '\n')
-    # output_str = w + ' ' + str(csid_dict[w])
-    # output_handle.write(output_str + '\n')
-    # output_handle.write(csid_dict[w] + '\n')
