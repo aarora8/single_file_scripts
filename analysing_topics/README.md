@@ -9,8 +9,8 @@ get_topic_duration_for_each_conversation.py \
 get_overlapping_topics.py \
 
 **Visulization:** \
-**get_plot.py** \
-**visualization_script.py** \
+get_plot.py \
+visualization_script.py \
 
 **Other** \
 fix_spaces_in_transcript.py \
