@@ -20,7 +20,6 @@ def main():
         parts = line.strip().split()
         if len(parts) == 4:
             topic = parts[2]
-            # topic = parts[2].split('-')[0]
             topic_type = parts[3]
             topic_type = topic_type.strip().split()[0]
 
@@ -35,9 +34,11 @@ def main():
                 secondary_topic2duration[topic]+= 1
                 output_transcript_handle.write(topic + '\n')
     
-    # for key in sorted(secondary_topic2duration):
-    #     output_str = str(key) + " " + str(secondary_topic2duration[key])
-    #     print(output_str)
+    for topic in sorted(secondary_topic2duration):
+        if topic in primary_topic2duration:
+            print(topic)
+        # output_str = str(key) + " " + str(secondary_topic2duration[key])
+        # print(output_str)
 
 if __name__ == '__main__':
     main()
