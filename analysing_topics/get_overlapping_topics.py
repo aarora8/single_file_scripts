@@ -87,7 +87,6 @@ def find_overlapping_segments(segs, label):
         tokens.append(("END", seg.end_time, seg.topic_id))
     sorted_tokens = sorted(tokens, key=lambda x: x[1])
 
-    running_spkrs = set()
     overlap_segs = []
     spkr_count = 0
     ovl_begin = 0
@@ -95,15 +94,12 @@ def find_overlapping_segments(segs, label):
     for token in sorted_tokens:
         if (token[0] == "BEG"):
             spkr_count +=1
-            running_spkrs.add(token[2])
             if (spkr_count == 2):
                 ovl_begin = token[1]
         else:
             spkr_count -= 1
-            if (spkr_count == 1):
+            if spkr_count == 1:
                 ovl_end = token[1]
-                label = str(running_spkrs)
-                running_spkrs = set()
                 overlap_segs.append(segment(reco_id, ovl_begin, ovl_end, topic_id=label))
     
     return overlap_segs
@@ -132,7 +128,6 @@ def main():
 
 
     for _, seg in enumerate(overlap_segs):
-        # print(seg)
         output_topic_handle.write("Reco: {0} Start time: {1} End time: {2} Topics: {3} \n".format(seg.reco_id, seg.start_time, seg.end_time, seg.topic_id))
 
 
