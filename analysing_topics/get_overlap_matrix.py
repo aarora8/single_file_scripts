@@ -93,6 +93,7 @@ def find_overlapping_segments(segs):
 
 def main():
     topic_text = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text.txt'
+    output_topic_info = '/Users/ashisharora/Desktop/root/toolkits/single_file_scripts/analysing_topics/output_files/recowise_topic_overlap_info.txt'
     output_topic_info = '/Users/ashisharora/Desktop/root/toolkits/single_file_scripts/analysing_topics/output_files/topic_overlap_info.txt'
     output_topic_handle = open(output_topic_info, 'w', encoding='utf8')
 
@@ -106,13 +107,28 @@ def main():
     reco2segs = defaultdict(list,
         {reco_id : list(g) for reco_id, g in groupby(segments, lambda x: x.reco_id)})
 
-    overlap_duration = []
+    overlap_list = []
     for reco_id in reco2segs.keys():
         segs = reco2segs[reco_id]
-        overlap_duration.extend(find_overlapping_segments(segs))
+        overlap_list.extend(find_overlapping_segments(segs))
 
-    for _, topic_overlap in enumerate(overlap_duration):
-        output_topic_handle.write("Reco: {0} topic_id1: {1} topic_id2: {2} duration: {3}  (sec) \n".format(topic_overlap.reco_id, topic_overlap.topic_id1, topic_overlap.topic_id2, topic_overlap.duration))
+    # for _, topic_overlap in enumerate(overlap_list):
+    #     output_topic_handle.write("Reco: {0} topic_id1: {1} topic_id2: {2} duration: {3}  (sec) \n".format(topic_overlap.reco_id, topic_overlap.topic_id1, topic_overlap.topic_id2, topic_overlap.duration))
+
+    topic_overlap2duration= dict()
+    for _, topic_overlap in enumerate(overlap_list):
+        topics = topic_overlap.topic_id1 + '_' + topic_overlap.topic_id2
+        if topics not in topic_overlap2duration:
+            topic_overlap2duration[topics] = int(0)
+        topic_overlap2duration[topics] += int(topic_overlap.duration)
+
+    sorted_tokens =  dict(sorted(topic_overlap2duration.items(), key=lambda item: item[1], reverse=True))
+    count = 0
+    for topics in sorted_tokens:
+        count += 1
+        if count % 2 !=0:
+            continue
+        output_topic_handle.write("{0} {1} \n".format(topics, sorted_tokens[topics]))
 
 
 if __name__ == '__main__':
