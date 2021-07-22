@@ -16,7 +16,7 @@ def groupby(iterable, keyfunc):
         yield key, group
 
 
-def get_segments(text_file_data, segment):
+def get_segments(text_file_data):
     segments = []
     for line in text_file_data:
         parts = line.strip().split()
@@ -114,7 +114,7 @@ def main():
     # text file format: <reco-id> <start-time> <end-time> <topic> <type>
     text_file_handle = open(topic_text, 'r', encoding='utf8')
     text_file_data = text_file_handle.read().strip().split("\n")
-    segments = get_segments(text_file_data, segment)
+    segments = get_segments(text_file_data)
 
     # We group the segment list into a dictionary indexed by reco_id
     reco2segs = defaultdict(list,
