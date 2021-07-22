@@ -6,6 +6,8 @@ find_topic_count.py \
 get_topic_duration_for_each_conversation.py 
 
 **Overlap** \
+Gets overlapping topics and stores the following information: "RecoID start_time end_time topics" 
+
 get_overlapping_topics.py 
 
 **Visulization:** \
