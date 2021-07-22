@@ -6,7 +6,7 @@ find_topic_count.py \
 get_topic_duration_for_each_conversation.py 
 
 **Overlap** \
-get_overlapping_topics.py: Gets all overlapping regions in the convresation and stores the following information: "RecoID start_time end_time dummy_label" 
+**get_overlapping_topics.py:** Gets all overlapping regions in the convresation and stores the following information: "RecoID start_time end_time dummy_label" 
 
 
 **Visulization:** \
