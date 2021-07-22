@@ -2,7 +2,6 @@
 
 import glob
 def main():
-
     list_of_files = glob.glob('/Users/ashisharora/Desktop/root/corpora/TDCorpus/topics/*.txt')
     output_transcript = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/conversation_topic_count_pr_sec'
     output_transcript_handle = open(output_transcript, 'w', encoding='utf8')

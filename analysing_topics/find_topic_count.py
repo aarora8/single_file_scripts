@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-
 import os
 import argparse
 # parser = argparse.ArgumentParser(description="""get text from transcripts""")
 # parser.add_argument('input_transcript', type=str, help='File name of a file that contains the')
 # parser.add_argument('output_transcript', type=str, help='Output file that contains transcript')
-def main():
 
+def main():
     # args = parser.parse_args()
     # output_transcript_handle = open(args.output_transcript, 'w', encoding='utf8')
     # text_file_handle = open(args.input_transcript, 'r', encoding='utf8')
