@@ -50,16 +50,15 @@ def get_segments(text_file_data):
 
 
 def get_topic_duration_vector(topic_segs):
-    # 1 = 10 millisec
-    # 12000 = 1200 sec = 20 mins
-    vector_size = 12000
+    # 1200 = 1200 sec = 20 mins
+    vector_size = 1200
     topic_vector = np.zeros(vector_size, dtype = int)
     # reco_id start_time end_time topic_id topic_type
     for seg in topic_segs:
         start_time = seg.start_time
-        start_time = int(start_time * 10)
+        start_time = int(start_time)
         end_time = seg.end_time
-        end_time = int(end_time * 10)
+        end_time = int(end_time)
         topic_vector[start_time:end_time] = 1
     return topic_vector
 
@@ -87,9 +86,9 @@ def find_overlapping_segments(segs):
             duration = find_overlap_duration_between_two_topics(topicid1_segs, topicid2_segs)
             if duration == 0:
                 continue
-            duration = duration/10
             tokens.append(topic_overlap(reco_id = reco_id, topic_id1 = topic_id1, topic_id2 = topic_id2, duration = duration))
     return tokens
+
 
 def main():
     topic_text = '/Users/ashisharora/Desktop/root/corpora/TDCorpus/topic_text.txt'
@@ -124,11 +123,30 @@ def main():
 
     sorted_tokens =  dict(sorted(topic_overlap2duration.items(), key=lambda item: item[1], reverse=True))
     count = 0
+    # work(s)_music(p) 583
     for topics in sorted_tokens:
         count += 1
         if count % 2 !=0:
             continue
         output_topic_handle.write("{0} {1} \n".format(topics, sorted_tokens[topics]))
+
+    topic_type_overlap = dict()
+    for topics in topic_overlap2duration:
+        topic_type1 = topics.strip().split(')')[0][-1]
+        topic_type2 = topics.strip().split(')')[1][-1]
+        topic_type = topic_type1 + '_' + topic_type2
+        duration = topic_overlap2duration[topics]
+
+        # if topic_type == 'p_p':
+        #     print(duration)
+        # if topic_type1.strip().split()[0] == 'p' and topic_type2.strip().split()[0] == 'p':
+        #     print(topics, topic_overlap2duration[topics])
+        if topic_type not in topic_type_overlap:
+            topic_type_overlap[topic_type] = 0
+        topic_type_overlap[topic_type] += duration
+    
+    for topic_type in topic_type_overlap:
+        print("{0}   {1}".format(topic_type, topic_type_overlap[topic_type]))
 
 
 if __name__ == '__main__':
